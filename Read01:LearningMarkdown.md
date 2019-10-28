@@ -5,7 +5,7 @@ Markdown has a small number of formatting elements. It is typically converted to
 Markdown is commonly used on GitHub
 
 ## What can we do with Markdown?
-A lot of things :) !!! :+1: <br />
+A lot of things :) !!! <br />
 We can create:
 - *Headers*
 - *Emphasis*
