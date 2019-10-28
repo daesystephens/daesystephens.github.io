@@ -1,4 +1,9 @@
-## Welcome to My Page ![alt text](https://avatars3.githubusercontent.com/u/19614897?s=460&v=4)
+## Welcome to My Page
+
+<p align="center">
+  <img src="https://avatars3.githubusercontent.com/u/19614897?s=460&v=4" alt="Daesy's profile image"/>
+</p>
+
 
 Hi, my name is Daesy Stephens and I love coding. You can visit my [GitHub account](https://github.com/daesy13) and see all the amazing projects that I worked on. 
 
