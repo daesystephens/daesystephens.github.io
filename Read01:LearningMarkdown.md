@@ -19,23 +19,28 @@ We can create:
 - *And using emojis*
 
 
-##HOW TO WRITE MARKDOWN
-Save your file as plain text. It is conventional to use the extension .md.
+## HOW TO WRITE MARKDOWN
+Save your file as plain text. It is conventional to use the extension **.md**.
 
-PROBLEMS WITH MARKDOWN
-You can use HTML and CSS in Markdown documents to achieves effects not possible in pure Markdown. While this defeats the purpose of Markdown, there are cases when it is worth it.
+###PROBLEMS WITH MARKDOWN
+You can use HTML and CSS in Markdown documents to achieve effects not possible in pure Markdown. While this defeats the purpose of Markdown, there are cases when it is worth it.
+
 For example, if you need to center an image you need to use HTML with CSS:
+'''
 <p align="center">
   <img src=“IMAGE URL GOES IN HERE” alt="Sample's custom image"/>
 </p>
+'''
 
 If you need to resize the image, you need to use this format and add style into your code:
 
+'''
 <p align="center">
   <img src=“IMAGE URL GOES IN HERE” alt="Sample's custom image” style="width:200px;height:200px;"
 />
 </p>
-
+'''
+												 
 CHEAT SHEET
 
 HEADERS
