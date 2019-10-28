@@ -8,7 +8,7 @@ It is a software that allows programmers to write and manage text. This text is 
 ## Choosing a Text Editor
 There is a quite variety of text editors. How to choose the right one? In reality, even though some text editors have different features. Choosing the right text editor is more based on a personal choice on which one you can feel more comfortable to work with. 
 
-#### Some features to look into are:
+### Some features to look into are:
 + **Code completion**
 + **Syntax Highlighting**
 + **Easy to use and navigate**
@@ -21,10 +21,15 @@ Usually your computer comes with a text editor, but unfortunately, these don’t
 These text editors can be downloaded from their respective websites. Some required to pay a fee and some are free: 
 
 **Notepad+ +:** is a free text editor for Windows Computers only.<br />
+<br />
 **BB Edit:** Edit is a software that you purchase. But BB Edit comes with a 30- day free trial.<br />
+<br />
 **Visual Studio Code:** Visual Studio Code is a free text editor made by the folks at Microsoft. It is available for Windows computers, Mac computers, and Linux computers.<br />
+<br />
 **Atom:** Atom is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. Atom is brought to you by the folks at GitHub.<br />
+<br />
 **Brackets:** Brackets is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. It’s made and maintained by the good folks at Adobe. <br />
+<br />
 **Sublime Text:** Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise, you’ll use the free version that runs indefinitely. **This one so far is my favorite**. 
 
 ## What is Command-Line?
