@@ -88,7 +88,7 @@ Strikethrough = ~~Scratch this~~
 
 ### LIST
 
-- **Task lists are check boxes:**
+#### Task lists are check boxes:
 ```
 - [ ] Uncompleted task
 - [x] Completed task
@@ -98,7 +98,7 @@ Strikethrough = ~~Scratch this~~
 - [x] Completed task
 
 
-- **Ordered List:*
+#### Ordered List:
 ```
 1. First ordered list item
 2. Another item
@@ -129,7 +129,7 @@ Strikethrough = ~~Scratch this~~
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- **Unordered List:**
+#### Unordered List:
 ```
 * Unordered list can use asterisks
 - Or minuses
