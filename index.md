@@ -13,9 +13,9 @@ Growth Mindset is the ability to develop through hard work, good strategy, and f
 
 ### 3 Remainders of How to Keep Myself in a Growth Mindset
 
-1. **Effort**: instant gratification monkey – but also remember that the feeling won’t last and you'll feel guilty later, as always. The trite-but-true phrase **_“no pain, no gain”_**  is a pure growth mindset!. It’s hard work, sure, and the good feeling isn’t instantaneous (though sometimes it is). But when the ride is over you'll feel better. I'll feel proud of yourself, and that goes a long, long way.
+- **Effort**: instant gratification monkey – but also remember that the feeling won’t last and you'll feel guilty later, as always. The trite-but-true phrase **_“no pain, no gain”_**  is a pure growth mindset!. It’s hard work, sure, and the good feeling isn’t instantaneous (though sometimes it is). But when the ride is over you'll feel better. You'll feel proud of yourself, and that goes a long, long way.
 
-2. **Criticism**: Variations of these questions will help you process criticism from coworkers. Assuming their critique is valid (and it usually is), You can hold a mini-retrospective with yourself:
+- **Criticism**: Variations of these questions will help you process criticism from coworkers. Assuming their critique is valid (and it usually is), You can hold a mini-retrospective with yourself:
 
 ```markdown
     * Which aspects of my work am I most proud of?
@@ -23,44 +23,5 @@ Growth Mindset is the ability to develop through hard work, good strategy, and f
 ```
 Remember criticism is about your performance only, and it is your job to use it to make improvements. 
 
-3. **Challenges**: When faced with a challenging coding problem, I tend to work over one particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it. I throw my hands up in surrender and stop. In other words, I’m in a fixed mindset and avoiding the problem by giving up.
+- **Challenges**: When faced with a challenging coding problem, I tend to work over one particular aspect of it again and again until I conclude that it’s impossible or that I’m incapable of solving it. I throw my hands up in surrender and stop. In other words, I’m in a fixed mindset and avoiding the problem by giving up.
 So, Try to recognize that avoidance, take a step back, and think about the growth mindset. When ready, walk through the problem once again, bit by bit, looking for new ways to think about it until you start to see another way forward. Also, it always helps to talk through these steps – out loud, not just in your head. Jot down clues as they come about. Soon enough (and rather miraculously), You'll begin to find root causes of the problem.
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/daesystephens/daesystephens.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daesystephens/daesystephens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
