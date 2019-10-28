@@ -53,14 +53,6 @@ If you need to **resize the image**, you need to use this format and add style i
 ##### H5
 ###### H6
 ```
-
-alternatively, There is an underline style for H1 and H2:
-
-```
-Alt-H1
-
-Alt-H2
-```
 **Results:**
 
 # H1
@@ -70,11 +62,20 @@ Alt-H2
 ##### H5
 ###### H6
 
-Alt-H1
-
-Alt-H2
 
 ### EMPHASIS
+
+```
+Italic text use (one asterisk) *text-here* or (one underscore) _any text here_ 
+
+Bold text use (two asterisk) **text-here** or (two underscore) __any text here__
+
+Italic and Bold combine (two asterisk and one underscore) **_any text here_**
+
+Strikethrough uses (two tildes) ~~Scratch this~~
+```
+
+**Results:**
 
 Italic text use (one asterisk) *text-here* or (one underscore) _any text here_ 
 
@@ -84,7 +85,8 @@ Italic and Bold combine (two asterisk and one underscore) **_any text here_**
 
 Strikethrough uses (two tildes) ~~Scratch this~~
 
-LIST
+
+### LIST
 
 TASK LISTS
 Task lists are check boxes:
