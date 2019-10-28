@@ -8,12 +8,12 @@ It is a software that allows programmers to write and manage text. This text is 
 ## Choosing a Text Editor
 There is a quite variety of text editors. How to choose the right one? In reality, even though some text editors have different features. Choosing the right text editor is more based on a personal choice on which one you can feel more comfortable to work with. 
 
-**Some features to look into are:**
-+ Code completion
-+ Syntax Highlighting
-+ Easy to use and navigate
-+ Find and replace text
-+ Customizable appearance 
+#### Some features to look into are:
++ **Code completion**
++ **Syntax Highlighting**
++ **Easy to use and navigate**
++ **Find and replace text**
++ **Customizable appearance** 
 
 Usually your computer comes with a text editor, but unfortunately, these don’t have as many features as the other ones. That is why people tend to choose **other popular text editors**.
 
@@ -31,7 +31,7 @@ These text editors can be downloaded from their respective websites. Some requir
 Well, the command line (also known as a terminal) is a text interface for your computer. It’s a program that takes in commands, which it passes on to the computer’s operating system to run.
 From the command line, you can navigate through files and folders on your computer, just as you would with Windows Explorer on Windows or Finder on Mac OS. The difference is that the command line is fully text-based.
 
-# COMMAND LINE SHEET SHEET
+# COMMAND LINE SHEET SHEET FOR MAC
 
 ## SHORT CUTS
 
