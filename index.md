@@ -2,6 +2,10 @@
 
 Hi, my name is Daesy Stephens and I love coding. You can visit my [GitHub account](https://github.com/daesy13) and see all my amazing projects that I worked on. 
 
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.spreadshirtmedia.com%2Fimage-server%2Fv1%2Fmp%2Fdesigns%2F1012184533%2Cwidth%3D178%2Cheight%3D178%2Fcreative-brain.png&f=1&nofb=1" alt="Brain's custom image"/>
+</p>
+
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.spreadshirtmedia.com%2Fimage-server%2Fv1%2Fmp%2Fdesigns%2F1012184533%2Cwidth%3D178%2Cheight%3D178%2Fcreative-brain.png&f=1&nofb=1)
 
 ### Growth Mindset 
