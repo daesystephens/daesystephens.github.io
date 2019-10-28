@@ -97,9 +97,25 @@ Task lists are check boxes:
 - [ ] Uncompleted task
 - [x] Completed task
 
-Task lists are only guaranteed to render on GitHub.
 
-Ordered List
+Ordered List:
+```
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+```
+
+**Results:**
+
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
@@ -113,18 +129,40 @@ Ordered List
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
+Unordered List:
+```
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+```
+
+**Results:**
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
-LINKS
+### LINKS
+```
+[I'm an inline-style link](https://www.google.com)
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+```
+**Results:**
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-IMAGES
+### IMAGES
+```
+Inline-style: 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 1")
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 2"
+```
+**Results:**
 Inline-style: 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 1")
 
@@ -133,7 +171,7 @@ Reference-style:
 
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 2"
 
-CODE AND CODE BLOCKS
+### CODE AND CODE BLOCKS
 Inline code is normally represented by back ticks (`). For instance,
 
 ‘let x=3;’
@@ -146,28 +184,28 @@ Code blocks are represented by three back ticks on the line before and after the
 let x = 3;
 ```
 
-TASK LISTS
-Task lists are check boxes:
-- [ ] Uncompleted task
-- [x] Completed task
-produces
-	 Uncompleted task
-	 Completed task
-Task lists are only guaranteed to render on GitHub.
-
-BLOCK QUOTES
+### BLOCK QUOTES
 
 For quoting blocks of content from another source within your document.
 Add > before any text you want to quote.
 
-Add `>` before any text you want to quote.
+```
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+```
 
-Result:
+**Results:**
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
 
 Block Quotes can also be nested:
-
+```
+> Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
+Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
+>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctorodio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+>>> Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
+Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
+```
+**Results:**
 > Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
 Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 >> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctorodio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
@@ -175,15 +213,24 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 
 
-TABLES 
-
+### TABLES 
+```
 | __Option__ | __Description__                            |
 |------------|--------------------------------------------|
 | data       | path to data files to supply the data.     |
 | engine     | engine to be used for processing templates |
 | ext        | extension to be used for dest files.       |
-
-
-EMBEDDING YOUTUBE VIDEOS
-
+```
+**Results:**
+```
+| __Option__ | __Description__                            |
+|------------|--------------------------------------------|
+| data       | path to data files to supply the data.     |
+| engine     | engine to be used for processing templates |
+| ext        | extension to be used for dest files.       |
+```
+### EMBEDDING YOUTUBE VIDEOS
+```
+[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+```
 [!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
