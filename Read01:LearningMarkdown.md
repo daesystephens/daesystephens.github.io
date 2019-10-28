@@ -5,7 +5,7 @@ Markdown has a small number of formatting elements. It is typically converted to
 Markdown is commonly used on GitHub
 
 ## What can we do with Markdown?
-A lot of things :) !!!<br />
+A lot of things :) !!! :+1: <br />
 We can create:
 - *Headers*
 - *Emphasis*
@@ -16,7 +16,6 @@ We can create:
 - *Block quotes*
 - *Tables*
 - *Embedding YouTube videos*
-- *And using emojis*
 
 
 ## HOW TO WRITE MARKDOWN
@@ -41,7 +40,7 @@ If you need to **resize the image**, you need to use this format and add style i
 </p>
 ```
 												 
-## CHEAT SHEET
+## MARKDOWN CHEAT SHEET
 
 ### HEADERS
 
