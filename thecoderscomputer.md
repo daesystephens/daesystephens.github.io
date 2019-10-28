@@ -6,7 +6,7 @@ It is a software that allows programmers to write and manage text. This text is 
 ## Choosing a Text Editor
 There is a quite variety of text editors. How to choose the right one? In reality, even though some text editors have different features. Choosing the right text editor is more based on a personal choice on which one you can feel more comfortable to work with. 
 
-__**Some features to look into are:**__
+**Some features to look into are:**
 +Code completion
 +Syntax Highlighting
 +Easy to use and navigate
@@ -23,13 +23,15 @@ These text editors can be downloaded from their respective websites. Some requir
 **Visual Studio Code:** Visual Studio Code is a free text editor made by the folks at Microsoft. It is available for Windows computers, Mac computers, and Linux computers.
 **Atom:** Atom is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. Atom is brought to you by the folks at GitHub.
 **Brackets:** Brackets is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. It’s made and maintained by the good folks at Adobe. 
-**Sublime Text:** Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise, you’ll use the free version that runs indefinitely. **__This one so far is my favorite__**. 
+**Sublime Text:** Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise, you’ll use the free version that runs indefinitely. **This one so far is my favorite**. 
 
 ## What is Command-Line?
 Well, the command line (also known as a terminal) is a text interface for your computer. It’s a program that takes in commands, which it passes on to the computer’s operating system to run.
 From the command line, you can navigate through files and folders on your computer, just as you would with Windows Explorer on Windows or Finder on Mac OS. The difference is that the command line is fully text-based.
 
-## COMMAND LINE SHEET SHEET
+# COMMAND LINE SHEET SHEET
+
+## Core Commands
 
 | __Key/Command__ |                     __Description__                                       |
 |---------------------------------------------------------------------------------------------|
@@ -43,10 +45,51 @@ From the command line, you can navigate through files and folders on your comput
 |ls -a	          | Listing incl. hidden files                                                |
 |ls -lh	          | Long listing with Human readable file sizes                               |
 |ls -R	          | Entire content of folder recursively                                      |
-|sudo [command]	  | Run command with the security privileges of the superuser (Super User DO) |  
+|sudo [command]	  | Run command with the security privileges of the superuser (Super User DO) |
 |open [file]	    | Opens a file ( as if you double clicked it )                              |
 |top	            | Displays active processes. Press q to quit                                |
 |nano [file]	    | Opens the file using the nano editor                                      |
 |vim [file]	      | Opens the file using the vim editor                                       |
 |clear	          | Clears the screen                                                         |
 |reset	          | Resets the terminal display                                               |
+
+## File Management
+
+| __Key/Command__         |                     __Description__                        |
+|--------------------------------------------------------------------------------------|
+|touch [file]	            |Create a new file                                           |
+|pwd	                    |Full path to working directory                              |
+|.	                      |Current folder, e.g. ls .                                   |
+|..	                      |Parent/enclosing directory, e.g. ls ..                      |
+|ls -l ..       	        |Long listing of parent directory                            |
+|cd ../../	              |Move 2 levels up                                            |
+|cat	                    |Concatenate to screen                                       |
+|rm [file]	              |Remove a file, e.g. rm data.tmp                             |
+|rm [file]	              |Remove a file, e.g. rm data.tmp                             |
+|rm [file]	              |Remove a file, e.g. rm data.tmp                             |
+|rm -i [file]	            |Remove with confirmation                                    |
+|rm -r [dir]	            |Remove a directory and contents                             |
+|rm -f [file]	            |Force removal without confirmation                          |
+|cp [file] [newfile]      |Copy file to file                                           |
+|cp [file] [newfile]	    |Copy file to file                                           |
+|cp [file] [dir]	        |Copy file to directory                                      |
+|mv [file] [new filename] |Move/Rename, e.g. mv file1.ad /tmp                          |
+|pbcopy < [file]	        |Copies file contents to clipboard                           |
+|pbpaste	                |Paste clipboard contents                                    |
+|pbpaste > [file]	        |Paste clipboard contents into file, pbpaste > paste-test.txt|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
