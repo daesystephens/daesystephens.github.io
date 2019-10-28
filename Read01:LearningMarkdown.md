@@ -222,15 +222,20 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 | ext        | extension to be used for dest files.       |
 ```
 **Results:**
-```
+
 | __Option__ | __Description__                            |
 |------------|--------------------------------------------|
 | data       | path to data files to supply the data.     |
 | engine     | engine to be used for processing templates |
 | ext        | extension to be used for dest files.       |
-```
+
 ### EMBEDDING YOUTUBE VIDEOS
+They can't be added directly but you can add an image with a alink to the video like this:
 ```
-[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
-[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+**Results:**
+<a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank"><img src="http://img.youtube.com/vi/eJojC3lSkwg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
