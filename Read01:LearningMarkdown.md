@@ -236,6 +236,6 @@ They can't be added directly but you can add an image with a alink to the video 
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
-**Results:**
+**Results:**<br/>
 <a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank"><img src="http://img.youtube.com/vi/eJojC3lSkwg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
