@@ -36,7 +36,7 @@ These text editors can be downloaded from their respective websites. Some requir
 Well, the command line (also known as a terminal) is a text interface for your computer. It’s a program that takes in commands, which it passes on to the computer’s operating system to run.
 From the command line, you can navigate through files and folders on your computer, just as you would with Windows Explorer on Windows or Finder on Mac OS. The difference is that the command line is fully text-based.
 
-# COMMAND LINE SHEET SHEET FOR MAC
+# COMMAND LINE CHEAT SHEET FOR MAC
 
 ## SHORT CUTS
 
