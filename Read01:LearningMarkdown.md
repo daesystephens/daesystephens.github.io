@@ -5,7 +5,7 @@ Markdown has a small number of formatting elements. It is typically converted to
 Markdown is commonly used on GitHub
 
 ## What can we do with Markdown?
-A lot of things :) !!!
+A lot of things :) !!!<br />
 We can create:
 - *Headers*
 - *Emphasis*
@@ -22,7 +22,7 @@ We can create:
 ## HOW TO WRITE MARKDOWN
 Save your file as plain text. It is conventional to use the extension **.md**.
 
-### PROBLEMS WITH MARKDOWN
+### Problems with Markdown
 You can use HTML and CSS in Markdown documents to achieve effects not possible in pure Markdown. While this defeats the purpose of Markdown, there are cases when it is worth it.
 
 For example, if you need to **center an image** you need to use HTML with CSS:
@@ -88,7 +88,7 @@ Strikethrough = ~~Scratch this~~
 
 ### LIST
 
-Task lists are check boxes:
+- **Task lists are check boxes:**
 ```
 - [ ] Uncompleted task
 - [x] Completed task
@@ -98,7 +98,7 @@ Task lists are check boxes:
 - [x] Completed task
 
 
-Ordered List:
+- **Ordered List:*
 ```
 1. First ordered list item
 2. Another item
@@ -129,14 +129,14 @@ Ordered List:
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-Unordered List:
+- **Unordered List:**
 ```
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 ```
 
-**Results:**
+**Results:**<br />
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
@@ -162,7 +162,7 @@ Reference-style:
 
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 2"
 ```
-**Results:**
+**Results:**<br />
 Inline-style: 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 1")
 
