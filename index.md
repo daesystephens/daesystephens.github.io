@@ -1,11 +1,3 @@
-## Welcome to My Page
-
-You can visit my [GitHub account](https://github.com/daesy13) and see all my amazing projects that I worked on. 
-
-### Growth Mindset
-I'm going to explain to you what "growth mindset" is. If you would more information there is an awesome article [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/daesystephens/daesystephens.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
