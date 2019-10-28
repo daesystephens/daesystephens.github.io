@@ -1,4 +1,4 @@
-| __Key/Command__ |                     __	Description__                                     |
+| __Key/Command__ |                     __Description__                                       |
 |---------------------------------------------------------------------------------------------|
 |cd [folder]	    | Change directory e.g. cd Documents                                        |
 |cd	              | Home directory                                                            |
