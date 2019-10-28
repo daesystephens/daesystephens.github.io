@@ -1,5 +1,7 @@
 # The Coder’s Computer
 
+![alt text](data:image/jpeg;base64,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) "Command Line Logo"
+
 ## What is a Text Editor?
 It is a software that allows programmers to write and manage text. This text is usually used to write code to create Web Applications, HTML, and CSS. This is the place where you write your code.
 
@@ -7,11 +9,11 @@ It is a software that allows programmers to write and manage text. This text is 
 There is a quite variety of text editors. How to choose the right one? In reality, even though some text editors have different features. Choosing the right text editor is more based on a personal choice on which one you can feel more comfortable to work with. 
 
 **Some features to look into are:**
-+Code completion
-+Syntax Highlighting
-+Easy to use and navigate
-+Find and replace text
-+Customizable appearance 
++ Code completion
++ Syntax Highlighting
++ Easy to use and navigate
++ Find and replace text
++ Customizable appearance 
 
 Usually your computer comes with a text editor, but unfortunately, these don’t have as many features as the other ones. That is why people tend to choose **other popular text editors**.
 
@@ -30,6 +32,18 @@ Well, the command line (also known as a terminal) is a text interface for your c
 From the command line, you can navigate through files and folders on your computer, just as you would with Windows Explorer on Windows or Finder on Mac OS. The difference is that the command line is fully text-based.
 
 # COMMAND LINE SHEET SHEET
+
+## SHORT CUTS
+
+| __Key/Command__ |                     __Description__                                          |
+|------------------------------------------------------------------------------------------------|
+|Ctrl + L	Clears the Screen                                                                      |
+|Cmd + K	Clears the Screen                                                                      |
+|Ctrl + C	Kill whatever you are running. Also clears everything on current line                  |
+|Ctrl + D	Exit the current shell when no process is running, or send EOF to a the running process|
+|Ctrl + Z	Puts whatever you are running into a suspended background process. fg restores it      |
+|Ctrl + _	Undo the last command. (Underscore. So it's actually Ctrl + Shift + minus)             |
+|Tab	Auto-complete files and folder names                                                       |
 
 ## Core Commands
 
@@ -77,19 +91,3 @@ From the command line, you can navigate through files and folders on your comput
 |pbcopy < [file]	        |Copies file contents to clipboard                           |
 |pbpaste	                |Paste clipboard contents                                    |
 |pbpaste > [file]	        |Paste clipboard contents into file, pbpaste > paste-test.txt|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
