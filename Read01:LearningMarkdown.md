@@ -5,7 +5,7 @@ Markdown has a small number of formatting elements. It is typically converted to
 Markdown is commonly used on GitHub
 
 ## What can we do with Markdown?
-A lot :bulb: :fireworks:
+A lot of things :) !!!
 We can create:
 - *Headers*
 - *Emphasis*
@@ -88,13 +88,15 @@ Strikethrough = ~~Scratch this~~
 
 ### LIST
 
-TASK LISTS
 Task lists are check boxes:
+```
 - [ ] Uncompleted task
 - [x] Completed task
-produces
-	 Uncompleted task
-	 Completed task
+```
+**Results:**
+- [ ] Uncompleted task
+- [x] Completed task
+
 Task lists are only guaranteed to render on GitHub.
 
 Ordered List
