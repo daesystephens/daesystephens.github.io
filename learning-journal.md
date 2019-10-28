@@ -1,7 +1,7 @@
 ## Welcome to My Page
 
-<p align="center" width="200" height="200">
-  <img src="https://avatars3.githubusercontent.com/u/19614897?s=460&v=4" alt="Daesy's profile image" style="width:300px;height:400px;" />
+<p align="center" >
+  <img src="https://avatars3.githubusercontent.com/u/19614897?s=460&v=4" alt="Daesy's profile image" style="width:200px;height:200px;" />
 </p>
 
 
