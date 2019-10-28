@@ -1,6 +1,4 @@
-<p align="center" >
 ## Welcome to My Page
-</p>
 
 <p align="center" >
   <img src="https://avatars3.githubusercontent.com/u/19614897?s=460&v=4" alt="Daesy's profile image" style="width:200px;height:200px;" />
