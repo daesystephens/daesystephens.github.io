@@ -173,9 +173,9 @@ Reference-style:
 
 ### CODE AND CODE BLOCKS
 Inline code is normally represented by back ticks (`). For instance,
-
+```
 ‘let x=3;’
-
+```
 If your code includes back ticks, you can use two back ticks to enclose the code.
 
 Code blocks are represented by three back ticks on the line before and after the code snippet. After the first set of back ticks the name of the coding language should be used, e.g.
