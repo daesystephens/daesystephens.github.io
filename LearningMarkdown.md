@@ -1,4 +1,4 @@
-# Read:01 - Learning Markdown
+# Learning Markdown
 ## What is Markdown?
 Markdown is a plain text format for writing structured documents. Instead of tags, it uses symbols that were conventional in the early days of email before we had rich text editors.
 Markdown has a small number of formatting elements. It is typically converted to HTML for the display on the web but is easily converted to other formats.
