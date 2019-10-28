@@ -77,13 +77,13 @@ Strikethrough uses (two tildes) ~~Scratch this~~
 
 **Results:**
 
-Italic text use (one asterisk) *text-here* or (one underscore) _any text here_ 
+Italic = _any text here_ 
 
-Bold text use (two asterisk) **text-here** or (two underscore) __any text here__
+Bold = **text-here**
 
-Italic and Bold combine (two asterisk and one underscore) **_any text here_**
+Italic and Bold = **_any text here_**
 
-Strikethrough uses (two tildes) ~~Scratch this~~
+Strikethrough = ~~Scratch this~~
 
 
 ### LIST
