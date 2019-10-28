@@ -24,7 +24,7 @@ Save your file as plain text. It is conventional to use the extension **.md**.
 ### Problems with Markdown
 You can use HTML and CSS in Markdown documents to achieve effects not possible in pure Markdown. While this defeats the purpose of Markdown, there are cases when it is worth it.
 
-For example, if you need to **center an image** you need to use HTML with CSS:
+For example, if you need to **center an image** you need to use HTML with CSS. You can use this format to center your image:
 ```
 <p align="center">
   <img src=“IMAGE URL GOES IN HERE” alt="Sample's custom image"/>
