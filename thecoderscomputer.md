@@ -20,11 +20,11 @@ Usually your computer comes with a text editor, but unfortunately, these don’t
 ## Other Popular Text Editors
 These text editors can be downloaded from their respective websites. Some required to pay a fee and some are free: 
 
-**Notepad+ +:** is a free text editor for Windows Computers only.
-**BB Edit:** Edit is a software that you purchase. But BB Edit comes with a 30- day free trial.
-**Visual Studio Code:** Visual Studio Code is a free text editor made by the folks at Microsoft. It is available for Windows computers, Mac computers, and Linux computers.
-**Atom:** Atom is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. Atom is brought to you by the folks at GitHub.
-**Brackets:** Brackets is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. It’s made and maintained by the good folks at Adobe. 
+**Notepad+ +:** is a free text editor for Windows Computers only.<br />
+**BB Edit:** Edit is a software that you purchase. But BB Edit comes with a 30- day free trial.<br />
+**Visual Studio Code:** Visual Studio Code is a free text editor made by the folks at Microsoft. It is available for Windows computers, Mac computers, and Linux computers.<br />
+**Atom:** Atom is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. Atom is brought to you by the folks at GitHub.<br />
+**Brackets:** Brackets is a free text editor that’s available for download for Windows computers, Mac computers, and Linux computers. It’s made and maintained by the good folks at Adobe. <br />
 **Sublime Text:** Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise, you’ll use the free version that runs indefinitely. **This one so far is my favorite**. 
 
 ## What is Command-Line?
