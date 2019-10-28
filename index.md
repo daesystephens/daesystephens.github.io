@@ -16,9 +16,10 @@ Growth Mindset is the ability to develop through hard work, good strategy, and f
 1. **Effort**: instant gratification monkey – but also remember that the feeling won’t last and you'll feel guilty later, as always. The trite-but-true phrase **_“no pain, no gain”_**  is a pure growth mindset!. It’s hard work, sure, and the good feeling isn’t instantaneous (though sometimes it is). But when the ride is over you'll feel better. I'll feel proud of yourself, and that goes a long, long way.
 
 2. **Criticism**: Variations of these questions will help you process criticism from coworkers. Assuming their critique is valid (and it usually is), You can hold a mini-retrospective with yourself:
+
 ```markdown
-    - Which aspects of my work am I most proud of?
-    - What can I do to improve the aspects I’m less proud of?
+    * Which aspects of my work am I most proud of?
+    * What can I do to improve the aspects I’m less proud of?
 ```
 Remember criticism is about your performance only, and it is your job to use it to make improvements. 
 
