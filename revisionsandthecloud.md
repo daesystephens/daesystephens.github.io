@@ -53,4 +53,11 @@ $ git commit -am"your message here"
 $ git push origin master
 ```
 
+## Cloning a Repository
+First, you need to locate where you want to store the clone file.
+Once you are on the specific location, add this code along with the URL that you collect from clone box on GitHub.
+```
+$ git clone https://github.com/test
+```
+
 [Back to Main Page](https://daesystephens.github.io/learning-journal)
