@@ -127,3 +127,5 @@ You should include this JavaScript code in HTML
 |&copy;         |```&copy;``` |Copyright symbol  |
 |&reg;          |```&reg;```  |Register Trademark|
 |&trade;        |```&trade;```|Trademark         |
+
+[Back to Main Page](https://daesystephens.github.io/learning-journal)
