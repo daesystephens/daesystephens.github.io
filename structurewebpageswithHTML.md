@@ -68,7 +68,7 @@ The ```<section>``` element groups related content together, and typically each 
 **<hgroup>**<br />
 The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.<br />
 
-**<figure>**<br />
+**```<figure>```**<br />
 ```<figure>``` It can be used to contain any content that is referenced from the main flow of an article.
 Examples of usage include:
 - Images
@@ -116,8 +116,7 @@ You should include this JavaScript code in HTML
 |```<div>```                            |It allows you to group a set of elements together in one block-level box|
 |```<span>```                           |It acts like an inline equivalent of the ```<div>```element|
 |```<iframe>```                         |Is like a little window and in that window you can see another page|
-|```<meta>```                           |Contains information about that web page.It is not visible to users but
-tells search engines about your page|
+|```<meta>```                           |Contains information about that web page.It is not visible to users but tells search engines about your page|
 
 **Most Used Escape Characters**
 
