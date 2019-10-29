@@ -1,5 +1,7 @@
 # Structure Web Pages with HTML
 
+![You can click here to see my HTML project](https://daesystephens.github.io/firstwebsite.html/)
+
 # PROCESS AND DESIGN OF A WEB
 
 ## Target your Audience
