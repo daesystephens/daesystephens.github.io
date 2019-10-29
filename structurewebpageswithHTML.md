@@ -1,7 +1,7 @@
 # Structure Web Pages with HTML
 
 ## Process and Design of a Web
-
+===============================
 ## Target your Audience
 - Individuals
 - Companies
@@ -33,12 +33,12 @@ You should **not include the color scheme, font choices, backgrounds or images f
 ![Wireframe](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/wireframing/discovery/steps-to-creating-wireframe-03.svg "Wireframe Diagram")
 
 *Wireframe Resource*
-Here are some online wireframe tools:
-[http://gomockingbird.com](http://gomockingbird.com)
+Here are some online wireframe tools:<br />
+[http://gomockingbird.com](http://gomockingbird.com)<br />
 [http://lovelycharts.com](http://lovelycharts.com)
 
 ## Getting Your Message Across Using Design
-- **Content:** Organize and prioritize.
+** Prioritize and Organize.**
 - **Prioritizing:** By making parts of the page look distinct from surrounding content, designers draw attention to (or away from) those items.
 - **Organizing:** Grouping together related content into blocks. You can differentiate between pieces of information using size, color, and style.
 
@@ -47,7 +47,7 @@ Most web users do not read entire pages. Rather, they skim to find information.
 **Images** create a high visual contrast and often **attract the eye first**.
 
 # HTML5 LAYOUT
-
+================
 ![HTML5 Layout](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstuyhsdesign.files.wordpress.com%2F2016%2F05%2Fyoko-html5.png%3Fw%3D656&f=1&nofb=1 "html5 layout")
 
 **<header> <footer>**
@@ -55,3 +55,4 @@ Most web users do not read entire pages. Rather, they skim to find information.
 - Used for an individual ```<article>``` or ```<section>``` within the page
 
 # EXTRA MARKUP
+==============
