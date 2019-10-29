@@ -52,16 +52,22 @@ Most web users do not read entire pages. Rather, they skim to find information.
 **<header> <footer>**
 - Used for main header or footer that appears at the top or bottom of every page
 - Used for an individual ```<article>``` or ```<section>``` within the page<br />
-**<nav>**<br />
+
+**<nav>**
 The ```<nav>``` element is used to contain the major navigational blocks on the site such as the primary site navigation or navigation bar.<br />
+
 **<article>**<br />
 The ```<article>``` element acts as a container for any section of a page that could stand alone. This could be an individual article or blog entry, a comment<br />
+
 **<aside>**<br />
 The ```<aside>``` element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page.<br />
+
 **<section>**<br />
 The ```<section>``` element groups related content together, and typically each section would have its own heading.<br />
+
 **<hgroup>**<br />
-The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.<br />
+
 **<figure><figcaption>**<br />
 ```<figure>``` It can be used to contain any content that is referenced from the main flow of an article.
 Examples of usage include:
@@ -72,8 +78,10 @@ Examples of usage include:
 - Code samples
 - Text that supports the main body of an article<br />
 The ```<figure>``` element should also contain a ```<figcaption>``` element which provides a text decription for the content of the ```<figure>``` element.<br />
+
 **<div>**<br />
 The ```<div>``` element will remain an important way to group together related elements.<br />
+
 **```<a>```**<br />
 HTML5 allows web page authors to place an ```<a>``` element around a block level element that contains child elements. This allows you to turn an entire block into a link.
 **Helping Older Browsers Understand HTML5**<br />
@@ -84,7 +92,7 @@ header, section, footer, aside, nav, main, article, figure {
 }
 ```
 You should include this JavaScript code in HTML
-```html
+```
 <!DOCTYPE html>
 <html>
 <head>
