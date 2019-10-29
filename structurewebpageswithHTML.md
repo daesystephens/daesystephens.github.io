@@ -106,21 +106,21 @@ You should include this JavaScript code in HTML
 <body>
 ```
 # EXTRA MARKUP
-| __Elements__ | __Description__ |
-|--------------|-----------------|
-|```<!DOCTYPE html>```|declaration for HTML5|
+|     __Elements__                      |     __Description__ |
+|:---------------------------------------:|:-----------------:|
+|```<!DOCTYPE html>```                  |Declaration for HTML5|
 |```<!-- Write your comments here -->```|You can add comments to your HTML source by using this syntax|
-|```id=specialquote```|Specifies a unique id for an element|
-|```class="note"```|Class attribute is used to define equal styles for elements with the same class name|
-|```<div>```|It allows you to group a set of elements together in one block-level box|
-|```<span>```|It acts like an inline equivalent of the ```<div>```element|
-|```<iframe>```|Is like a little window and in that window you can see another page|
-|```<meta>```|Contains information about that web page.It is not visible to users but
+|```id=specialquote```                  |Specifies a unique id for an element|
+|```class="note"```                     |Class attribute is used to define equal styles for elements with the same class name|
+|```<div>```                            |It allows you to group a set of elements together in one block-level box|
+|```<span>```                           |It acts like an inline equivalent of the ```<div>```element|
+|```<iframe>```                         |Is like a little window and in that window you can see another page|
+|```<meta>```                           |Contains information about that web page.It is not visible to users but
 tells search engines about your page|
 
 **Most Used Escape Characters**
 |__Character__|__Code__|__Description__|
-|-------------|--------|---------------|
+|-------------:|:--------:|---------------:|
 |&amp;|```&amp;```|Ampersand|
 |&quot;|```&quot;```|Quotation mark|
 |&copy;|```&copy;```|Copyright symbol|
