@@ -1,7 +1,7 @@
 # Structure Web Pages with HTML
 
-Process and Design of a Web
-===========================
+# PROCESS AND DESIGN OF A WEB
+
 ## Target your Audience
 - Individuals
 - Companies
@@ -32,13 +32,12 @@ You should **not include the color scheme, font choices, backgrounds or images f
 
 ![Wireframe](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/wireframing/discovery/steps-to-creating-wireframe-03.svg "Wireframe Diagram")
 
-*Wireframe Resource*
-Here are some online wireframe tools:<br />
+*Here are some online wireframe tools:* <br />
 [http://gomockingbird.com](http://gomockingbird.com)<br />
 [http://lovelycharts.com](http://lovelycharts.com)
 
 ## Getting Your Message Across Using Design
-** Prioritize and Organize.**
+**Prioritize and Organize**
 - **Prioritizing:** By making parts of the page look distinct from surrounding content, designers draw attention to (or away from) those items.
 - **Organizing:** Grouping together related content into blocks. You can differentiate between pieces of information using size, color, and style.
 
@@ -46,13 +45,54 @@ Here are some online wireframe tools:<br />
 Most web users do not read entire pages. Rather, they skim to find information.
 **Images** create a high visual contrast and often **attract the eye first**.
 
-HTML5 LAYOUT
-================
+# HTML5 LAYOUT
+
 ![HTML5 Layout](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstuyhsdesign.files.wordpress.com%2F2016%2F05%2Fyoko-html5.png%3Fw%3D656&f=1&nofb=1 "html5 layout")
 
 **<header> <footer>**
 - Used for main header or footer that appears at the top or bottom of every page
 - Used for an individual ```<article>``` or ```<section>``` within the page
-
-EXTRA MARKUP
-==============
+**<nav>**
+The ```<nav>``` element is used to contain the major navigational blocks on the site such as the primary site navigation or navigation bar.
+**<article>**
+The ```<article>``` element acts as a container for any section of a page that could stand alone. This could be an individual article or blog entry, a comment
+**<aside>**
+The ```<aside>``` element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page.
+**<section>**
+The ```<section>``` element groups related content together, and typically each section would have its own heading.
+**<hgroup>**
+The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+**<figure><figcaption>**
+```<figure>``` It can be used to contain any content that is referenced from the main flow of an article.
+Examples of usage include:
+- Images
+- Videos
+- Graphs
+- Diagrams
+- Code samples
+- Text that supports the main body of an article
+The ```<figure>``` element should also contain a ```<figcaption>``` element which provides a text decription for the content of the ```<figure>``` element.
+**<div>**
+The ```<div>``` element will remain an important way to group together related elements.
+**<a>**
+HTML5 allows web page authors to place an ```<a>``` element around a block level element that contains child elements. This allows you to turn an entire block into a link.
+**Helping Older Browsers Understand HTML5**
+You should include this line in CSS
+```css
+header, section, footer, aside, nav, main, article, figure {
+  display: block;
+}
+```
+You should include this JavaScript code in HTML
+```javascript
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+</head>
+<body>
+```
+# EXTRA MARKUP
