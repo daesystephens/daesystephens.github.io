@@ -1,6 +1,6 @@
 # Structure Web Pages with HTML
 
-![You can click here to see my HTML project](https://daesystephens.github.io/firstwebsite.html/ "Ice cream shop")
+![You can click here to see my HTML project](https://daesystephens.github.io/firstwebsite.html/index.html "Ice cream shop")
 
 # PROCESS AND DESIGN OF A WEB
 
