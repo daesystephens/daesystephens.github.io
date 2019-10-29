@@ -1,7 +1,7 @@
 # Structure Web Pages with HTML
 
-## Process and Design of a Web
-===============================
+Process and Design of a Web
+===========================
 ## Target your Audience
 - Individuals
 - Companies
@@ -46,7 +46,7 @@ Here are some online wireframe tools:<br />
 Most web users do not read entire pages. Rather, they skim to find information.
 **Images** create a high visual contrast and often **attract the eye first**.
 
-# HTML5 LAYOUT
+HTML5 LAYOUT
 ================
 ![HTML5 Layout](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstuyhsdesign.files.wordpress.com%2F2016%2F05%2Fyoko-html5.png%3Fw%3D656&f=1&nofb=1 "html5 layout")
 
@@ -54,5 +54,5 @@ Most web users do not read entire pages. Rather, they skim to find information.
 - Used for main header or footer that appears at the top or bottom of every page
 - Used for an individual ```<article>``` or ```<section>``` within the page
 
-# EXTRA MARKUP
+EXTRA MARKUP
 ==============
