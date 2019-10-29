@@ -68,7 +68,7 @@ The ```<section>``` element groups related content together, and typically each 
 **<hgroup>**<br />
 The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.<br />
 
-**<figure>** **<figcaption>**<br />
+**<figure>**<br />
 ```<figure>``` It can be used to contain any content that is referenced from the main flow of an article.
 Examples of usage include:
 - Images
@@ -106,8 +106,9 @@ You should include this JavaScript code in HTML
 <body>
 ```
 # EXTRA MARKUP
+
 |     __Elements__                      |     __Description__ |
-|:---------------------------------------:|:-----------------:|
+|---------------------------------------|---------------------|
 |```<!DOCTYPE html>```                  |Declaration for HTML5|
 |```<!-- Write your comments here -->```|You can add comments to your HTML source by using this syntax|
 |```id=specialquote```                  |Specifies a unique id for an element|
@@ -119,10 +120,11 @@ You should include this JavaScript code in HTML
 tells search engines about your page|
 
 **Most Used Escape Characters**
-|__Character__|__Code__|__Description__|
-|-------------:|:--------:|---------------:|
-|&amp;|```&amp;```|Ampersand|
-|&quot;|```&quot;```|Quotation mark|
-|&copy;|```&copy;```|Copyright symbol|
-|&reg;|```&reg;```|Register Trademark|
-|&trade;|```&trade;```|Trademark|
+
+| __Character__ | __Code__    | __Description__  |
+|---------------|-------------|------------------|
+|&amp;          |```&amp;```  |Ampersand         |
+|&quot;         |```&quot;``` |Quotation mark    |
+|&copy;         |```&copy;``` |Copyright symbol  |
+|&reg;          |```&reg;```  |Register Trademark|
+|&trade;        |```&trade;```|Trademark         |
