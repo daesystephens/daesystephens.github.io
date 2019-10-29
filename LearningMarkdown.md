@@ -39,7 +39,7 @@ If you need to **resize the image**, you need to use this format and add style i
 />
 </p>
 ```
-												 
+
 ## MARKDOWN CHEAT SHEET
 
 ### HEADERS
@@ -65,7 +65,7 @@ If you need to **resize the image**, you need to use this format and add style i
 ### EMPHASIS
 
 ```
-Italic text use (one asterisk) *text-here* or (one underscore) _any text here_ 
+Italic text use (one asterisk) *text-here* or (one underscore) _any text here_
 
 Bold text use (two asterisk) **text-here** or (two underscore) __any text here__
 
@@ -76,7 +76,7 @@ Strikethrough uses (two tildes) ~~Scratch this~~
 
 **Results:**
 
-Italic = _any text here_ 
+Italic = _any text here_
 
 Bold = **text-here**
 
@@ -101,7 +101,7 @@ Strikethrough = ~~Scratch this~~
 ```
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -117,7 +117,7 @@ Strikethrough = ~~Scratch this~~
 
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -153,19 +153,19 @@ Strikethrough = ~~Scratch this~~
 
 ### IMAGES
 ```
-Inline-style: 
+Inline-style:
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 1")
 
-Reference-style: 
+Reference-style:
 ![alt text][logo]
 
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 2"
 ```
 **Results:**<br />
-Inline-style: 
+Inline-style:
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 1")
 
-Reference-style: 
+Reference-style:
 ![alt text][logo]
 
 [logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyWFeITOgvS-cjYLOfBLkP4dTjxW4NMi86ePy0v3zniYJo1Rm&s "Camera Title Text 2"
@@ -212,7 +212,7 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 
 
-### TABLES 
+### TABLES
 ```
 | __Option__ | __Description__                            |
 |------------|--------------------------------------------|
@@ -232,9 +232,11 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 They can't be added directly but you can add an image with a alink to the video like this:
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 **Results:**<br/>
-<a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank"><img src="http://img.youtube.com/vi/eJojC3lSkwg/0.jpg" 
+<a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank"><img src="http://img.youtube.com/vi/eJojC3lSkwg/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[Back to Main Page](https://daesystephens.github.io/learning-journal)

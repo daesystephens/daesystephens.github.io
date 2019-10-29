@@ -34,7 +34,7 @@ So, Try to recognize that avoidance, take a step back, and think about the growt
 ## Table of Contents
 1. [Learning Markdown](https://daesystephens.github.io/LearningMarkdown)
 2. [The Coder's Computer](https://daesystephens.github.io/thecoderscomputer)
-3. [Revision and the Cloud]()
+3. [Revision and the Cloud](https://daesystephens.github.io/revisionsandthecloud)
 4. []()
 5. []()
 6. []()
