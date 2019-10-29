@@ -11,11 +11,11 @@ You need to know their **motivations & goals**
 
 When creating a website you need to have a list of reasons why people would be coming to your site.
 
-## What Information Your Visitors Need
+## What Information Your Visitors Need?
 
 You need to work out what information they need in order to achieve their goals **quickly & effectively**. If the information doesn't appear relevant, they are likely to go elsewhere.
 
-## How Often People Will Visit Your Site
+## How Often People Will Visit Your Site?
 
 Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.
 It can often be helpful to set a schedule for when a site will be updated.
@@ -68,7 +68,7 @@ The ```<section>``` element groups related content together, and typically each 
 **<hgroup>**<br />
 The purpose of the ```<hgroup>``` element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.<br />
 
-**<figure><figcaption>**<br />
+**<figure>** **<figcaption>**<br />
 ```<figure>``` It can be used to contain any content that is referenced from the main flow of an article.
 Examples of usage include:
 - Images
@@ -77,13 +77,15 @@ Examples of usage include:
 - Diagrams
 - Code samples
 - Text that supports the main body of an article<br />
+
 The ```<figure>``` element should also contain a ```<figcaption>``` element which provides a text decription for the content of the ```<figure>``` element.<br />
 
 **<div>**<br />
 The ```<div>``` element will remain an important way to group together related elements.<br />
 
 **```<a>```**<br />
-HTML5 allows web page authors to place an ```<a>``` element around a block level element that contains child elements. This allows you to turn an entire block into a link.
+HTML5 allows web page authors to place an ```<a>``` element around a block level element that contains child elements. This allows you to turn an entire block into a link.<br />
+
 **Helping Older Browsers Understand HTML5**<br />
 You should include this line in CSS
 ```css
@@ -104,3 +106,23 @@ You should include this JavaScript code in HTML
 <body>
 ```
 # EXTRA MARKUP
+| __Elements__ | __Description__ |
+|--------------|-----------------|
+|```<!DOCTYPE html>```|declaration for HTML5|
+|```<!-- Write your comments here -->```|You can add comments to your HTML source by using this syntax|
+|```id=specialquote```|Specifies a unique id for an element|
+|```class="note"```|Class attribute is used to define equal styles for elements with the same class name|
+|```<div>```|It allows you to group a set of elements together in one block-level box|
+|```<span>```|It acts like an inline equivalent of the ```<div>```element|
+|```<iframe>```|Is like a little window and in that window you can see another page|
+|```<meta>```|Contains information about that web page.It is not visible to users but
+tells search engines about your page|
+
+**Most Used Escape Characters**
+|__Character__|__Code__|__Description__|
+|-------------|--------|---------------|
+|&amp;|```&amp;```|Ampersand|
+|&quot;|```&quot;```|Quotation mark|
+|&copy;|```&copy;```|Copyright symbol|
+|&reg;|```&reg;```|Register Trademark|
+|&trade;|```&trade;```|Trademark|
