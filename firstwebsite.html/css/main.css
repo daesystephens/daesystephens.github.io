@@ -15,10 +15,8 @@ body {
     border: 2px solid gray;
     background-color: #FFFAF0;
 }
-h1, h2, h3 {
-    font-weight: bold;
-}
 h1 {
+    font-style: italic;
     font-size: 50px;
     text-align: center;
     width: 950px;
@@ -57,6 +55,9 @@ article {
 }
 hgroup {
     margin-top:40px;
+}
+h1, h2, h3 {
+    font-weight: bold;
 }
 aside {
     width: 230px;
