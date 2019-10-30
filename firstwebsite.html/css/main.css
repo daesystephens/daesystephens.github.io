@@ -4,8 +4,7 @@ header, section, footer, aside, nav, main, article, figure {
 }
 body {
     color:gray;
-    /* background-color: #F7819F; */
-    background-color: rgb(242, 119, 172);
+    background-color: #F7819F;
     font-family: Georgia, times, serif;
     line-height: 1.4em;
     margin: 0px;
