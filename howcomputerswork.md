@@ -20,9 +20,21 @@ All computers follow 4 main tasks:
 
 # Binary Data
 
-Computers work on ones & zeroes. Inside a computer are electric wires and circuits that carry all the information. A signal wire can either ON or OFF, it can represent Yes or No, True or False, or 1 or 0.
+Computers work on ones & zeroes. Inside a computer are electric wires and circuits that carry all the information. A signal wire can either ON or OFF, it can represent Yes or No, True or False, or 1 & 0's.
 
 A single wire is called a **BIT**. The more **bits** the more complex information the computer can take.
 
 ![circuit and wires](https://images.unsplash.com/photo-1549983650-e625b9735678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80 "circuit and wires")
 
+Each individual operation done by a computer is so simple it could be done b a human but the circuits inside computer are way faster
+
+**Why smaller computers also faster?**
+The smaller the circuit is, the less distance the electrical signal has to go.
+
+![small circuit](https://images.unsplash.com/photo-1553406830-4fd6df625354?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60 "small circuit")
+
+**Everything we can do with technology requires lots of information to be processed extremely quickly. Underneath all this complexity is just lots of tiny little circuits that turn binary signlas into websites, videos, music and games**
+
+
+
+[Back to Main Page](https://daesystephens.github.io/learning-journal)
