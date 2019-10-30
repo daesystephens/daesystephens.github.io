@@ -37,4 +37,4 @@ So, Try to recognize that avoidance, take a step back, and think about the growt
 3. [Revision and the Cloud](https://daesystephens.github.io/revisionsandthecloud)
 4. [Structure Web Pages with HTML](https://daesystephens.github.io/structurewebpageswithHTML)
 5. [Design Web Pages with CSS](https://daesystephens.github.io/designwithCSS)
-6. [a) Dynamic Web Pages with JavaScript](https://daesystephens.github.io/dinamicpagesjavascript.md)
+6. [a) Dynamic Web Pages with JavaScript](https://daesystephens.github.io/dynamicpagesjavascript.md)
