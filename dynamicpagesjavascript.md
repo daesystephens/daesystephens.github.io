@@ -44,20 +44,20 @@ is used for more than one line of comment*/
 
 A variable means anything that can vary. A **variable** stores data that it can change at any time.
 
-**Declare Variable**
+**Declaring a Variable**
 
 ```javascript
 var quantity;
 ```
 
-**Assign Variable**
+**Assigning a Variable**
 
 ```javascript
 quantity = 3;
 ```
 ## Data Types
 
-- **Numerice:** integers, decimals and negatives.
+- **Numeric:** integers, decimals and negative.
 
 ```javascript
 amount = 10.75;
@@ -69,7 +69,7 @@ amount = 10.75;
 title = 'Harry Potter';
 ```
 
-- **Boolean:** values are true or false.
+- **Boolean:** values are either true or false.
 
 ```javascript
 inStock = true;
@@ -100,7 +100,7 @@ inStock = true;
 
 ## Rules for Naming Variables
 
-- [X] The name must begin with a letter, dollar sign, or an underscore. It must **not** start with a number.
+- [X]  The name must begin with a letter, dollar sign, or an underscore. It must **not** start with a number.
 - [X] The name can contain letters, numbers, dollar sign, or an underscore. **MUST NOT** dash or period in a variable name
 - [X] You cannot use keywords or reserved words.
 - [X] All variables are case sensitive, so scores and Score are not the same.
