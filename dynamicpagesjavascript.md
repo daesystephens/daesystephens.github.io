@@ -21,7 +21,7 @@ document.write('Good afternoon!');
 
 **The HTML ```<script>``` element is used in HTML pages to tell the browser to load the JavaScript file**
 
-## Basic JavaScript
+# Basic JavaScript
 
 + **Script** is a series of instructions that a computer can follow one-by-one.
 + **Statement** is an individual instruction or step that ends with a semicolon.
