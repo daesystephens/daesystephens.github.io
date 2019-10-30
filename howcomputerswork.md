@@ -19,3 +19,10 @@ All computers follow 4 main tasks:
 *When computers connect to eache other over the internet the output of one computer becomes the input to another one and viceversa*
 
 # Binary Data
+
+Computers work on ones & zeroes. Inside a computer are electric wires and circuits that carry all the information. A signal wire can either ON or OFF, it can represent Yes or No, True or False, or 1 or 0.
+
+A single wire is called a **BIT**. The more **bits** the more complex information the computer can take.
+
+![circuit and wires](https://images.unsplash.com/photo-1549983650-e625b9735678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80 "circuit and wires")
+
