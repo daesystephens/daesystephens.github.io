@@ -2,11 +2,11 @@
 
 When building a website it is recommended to have HTML, CSS, and JavaScript in separate files.
 
-- .html files is the Content Layer (structure)
-- .css files is the Presentation Layer (paint and decoration)
-- .js files is the Behavior Layer (actions to perform)
+- **.html** files is the Content Layer (**structure**)
+- **.css** files is the Presentation Layer (**paint and decoration**)
+- **.js** files is the Behavior Layer (**actions to perform**)
 
-HTML is like a car frame, CSS is like the color and decorations added into your car, and JavaScript is like your dashboard where you assign which action the car will take.
+**HTML** is like a car frame, **CSS** is like the color and decorations added into your car, and **JavaScript** is like your dashboard where you assign which action the car will take.
 
 ## Objects and Methods
 
@@ -14,12 +14,12 @@ HTML is like a car frame, CSS is like the color and decorations added into your 
 document.write('Good afternoon!');
 ```
 
-```document``` **Object** represents the entire web page.
-```.``` the dot is a **Member Operator** that gives you access to a member of an object
-```write()``` is the **Method** of the *document* object allows new content to be written into the page.
-```'Good afternoon!'``` is a **Parameter** which is the information passed to the **method**
+- ```document``` **Object** represents the entire web page.
+- ```.``` the dot is a **Member Operator** that gives you access to a member of an object
+- ```write()``` is the **Method** of the *document* object allows new content to be written into the page.
+- ```'Good afternoon!'``` is a **Parameter** which is the information passed to the **method**
 
-**The HTML ```<script>``` element is used in HTML pages to tell the browser to load the JavaScript file**
+"**The HTML ```<script>``` element is used in HTML pages to tell the browser to load the JavaScript file**"
 
 # Basic JavaScript
 
