@@ -15,9 +15,9 @@ document.write('Good afternoon!');
 ```
 
 - ```document``` **Object** represents the entire web page.
-- ```.``` the dot is a **Member Operator** that gives you access to a member of an object
+- ```.``` the dot is a **Member Operator** that gives you access to a member of an object.
 - ```write()``` is the **Method** of the *document* object allows new content to be written into the page.
-- ```'Good afternoon!'``` is a **Parameter** which is the information passed to the **method**
+- ```'Good afternoon!'``` is a **Parameter** which is the information passed to the **method**.
 
 "**The HTML ```<script>``` element is used in HTML pages to tell the browser to load the JavaScript file**"
 
