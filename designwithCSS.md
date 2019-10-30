@@ -142,3 +142,5 @@ p.two {
     background-color: rgb(0,0,0);
     background-color: rgba(0,0,0,0.5);}
 ```
+
+[Back to Main Page](https://daesystephens.github.io/learning-journal)
