@@ -93,7 +93,7 @@ HTML+CSS
 
 | __Selector__              | __Meaning__                                                                                                                   | __Example__           |
 |---------------------------|------------------------------------------------------------------------|----------------------|
-|Universal Selector         |Applies to all elements in the document                                                                                        |```* {}``` Targets all elements on the page|
+|Universal Selector         |Applies to all elements in the document                                                                                        |```* {}```<br /> Targets all elements on the page|
 |Type Selector              |Matches element names                                                                                                          |```h1, h2, h3 {}``` Targets the ```<h1>, <h2>``` and ```<h3>``` elements|
 |Class Selector             |Matches an element whose class attribute has a value that matches the one specified after the period (or full stop) symbol  |```.note {}``` Targets any element whose class attribute has a value of note ```p.note {}``` Targets only ```<p>``` elements whose class attribute has a value of note|
 |ID Selector                | Matches an element whose id attribute has a value that matches the one specified after the pound or hash symbol               |```#introduction {}``` Targets the element whose id attribute has a value of introduction|
@@ -101,3 +101,44 @@ HTML+CSS
 |Descendant Selector        |Matches an element that is a descendent of another specified element (not just a direct child of that element)            |```p a {}``` Targets any ```<a>``` elements that sit inside a ```<p>``` element, even if there are other elements nested between them|
 |Adjacent Sibling Selector  |Matches an element that is the next sibling of another                                                                         |```h1+p {}``` Targets the first ```<p>``` element after any ```<h1>``` element (but not other ```<p>``` elements)|
 |General Sibling Selector   |Matches an element that is a sibling of another, although it does not have to be the directly preceding element         |```h1~p {}``` If you had two ```<p>``` elements that are siblings of an ```<h1>``` element, this rule would apply to both|
+
+
+# Color in CSS
+
+- Color not only brings your site to life, but also helps convey the mood and evokes reactions.
+
+## There are three ways to specify colors in CSS:
+
+**RGB values**
+```css
+body {
+    background-color: rgb(200,200,200);}
+```
+**Hex codes**
+```css
+h2 {
+    background-color: #ee3e80;}
+```
+**Color names**
+```css
+h1 {
+    background-color: DarkCyan;}
+```
+
+## Opacity, rgba
+**Opacity**
+The value is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity).
+
+```css
+p.one {
+    background-color: rgb(0,0,0);
+    opacity: 0.5;}
+```
+**rgba**
+RGB value, but adds a fourth value to indicate opacity. This value is known as an alpha value and is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity).
+
+```css
+p.two {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.5);}
+```
