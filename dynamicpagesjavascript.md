@@ -23,8 +23,8 @@ document.write('Good afternoon!');
 
 ## Basic JavaScript
 
-**Script** is a series of instructions that a computer can follow one-by-one.
-**Statement** is an individual instruction or step that ends with a semicolon.
++ **Script** is a series of instructions that a computer can follow one-by-one.
++ **Statement** is an individual instruction or step that ends with a semicolon.
 
 ### Comments
 
