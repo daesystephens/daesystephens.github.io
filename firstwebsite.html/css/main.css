@@ -15,11 +15,19 @@ body {
     border: 2px solid gray;
     background-color: #FFFAF0;
 }
+h1, h2, h3 {
+    font-weight: bold;
+}
 h1 {
+    font-size: 50px;
     text-align: center;
     width: 950px;
     height: 10px;
-    margin: 50px 0px 0px 0px;
+    /* margin: 50px 0px 0px 0px; */
+    margin: 50px 10px 0px 50px;
+}
+h3 {
+    font-style: italic;
 }
 nav, footer {
     clear: both;
@@ -70,9 +78,6 @@ aside section a:hover {
 a {
     color: #de6581;
     text-decoration: none;
-}
-            h1, h2, h3 {
-    font-weight: normal;
 }
 .contact-detail {
     display:inline-block;
