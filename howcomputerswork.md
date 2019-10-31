@@ -49,7 +49,7 @@ The smaller the circuit is, the less distance the electrical signal has to go. W
 
 **How Hardware and Software interact with one another?**<br />
 The software tells the CPU what to do and the CPU receives the commands that tell it which circuit to use to do a specific job.
-The CPU has circuits to do simple math and logic. It also has other circuits to send and recieve information to and from different parts of the computer.
+The CPU has circuits to do simple math and logic. It also has other circuits to send and receive information to and from different parts of the computer.
 
 # Operating System
 
