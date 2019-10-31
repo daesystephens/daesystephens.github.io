@@ -4,106 +4,6 @@
         <title>Ice Cream Shop</title>
         <link href="css/main.css" type="text/css" rel="stylesheet" />
     </head>
-        <!-- <style type="text/css">
-            header, section, footer, aside, nav, main, article, figure {
-            display: block;
-            }
-            body {
-                color:gray;
-                background-color: #F7819F;
-                font-family: Georgia, times, serif;
-                line-height: 1.4em;
-                margin: 0px;
-            }
-            .wrapper {
-                width: 1050px;
-                margin: 20px auto 20px auto;
-                border: 2px solid gray;
-                background-color: #ffffff;
-            }
-            h1 {
-                text-align: center;
-                width: 950px;
-                height: 10px;
-                margin: 50px 0px 0px 0px;
-            }
-            nav, footer {
-                clear: both;
-                color: #ffffff;
-                background-color: #aeaca8;
-                height: 30px;
-            }
-            nav ul {
-                margin: 50px;
-                text-align: center;
-                padding: 5px 0px 5px 30px;
-            }
-            nav li {
-                display: inline;
-                text-align:center;
-                margin-right: 40px;
-            }
-            nav li a {
-                color: #ffffff;
-            }
-            nav li a:hover, nav li a.current {
-                color: #000000;
-            }
-            article {
-                clear: both;
-                width: 100%;
-                }
-            hgroup {
-                margin-top:40px;
-                }
-
-            aside {
-                width: 230px;
-                float: left;
-                padding: 0px 0px 0px 30px;
-            }
-
-            aside .fall-specials {
-                padding: 0px 0px 0px 0px;
-            }
-            aside section a {
-                display: block;
-                padding: 10px;
-                border-bottom: 1px solid #eeeeee;
-            }
-            aside section a:hover {
-                color: #985d6a;
-                background-color: #efefef;
-            }
-            a {
-                color: #de6581;
-                text-decoration: none;
-            }
-            h1, h2, h3 {
-                font-weight: normal;
-            }
-            .contact-detail {
-                display:inline-block;
-                text-align:center;
-                margin-right: 40px;
-            }
-            .fall-specials {
-                display: flex;
-                flex: 33.33%;
-                padding: 1px;
-            }
-            .fall-specials img {
-                width:330px;
-                /* height:330px; */
-            }
-            hgroup {
-                text-align: center;
-            }
-        </style> -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <![endif]-->
-    <!-- </head> -->
     <body>
         <div class="wrapper">
             <header>
@@ -120,6 +20,7 @@
             <section class="popular-icecream">
                 <article>
                     <hgroup>
+                        <p>This page turns purple when you hold the P key.</p>
                         <h2>Best Ice cream In Town</h2>
                         <h3>Come and enjoy the most delightful flavors</h3>
                         <h3>We offer a big variety of Vegan and Non-Vegan Icecream</h3>
@@ -155,5 +56,30 @@
                     &copy; 2019 Ice Cream Shop
                 </footer>
         </div><!-- .wrapper -->
+        <script>
+            function sayHello() {
+                    alert("Hello World")
+                }
+
+            let bombTimer = setTimeout(() => {
+                    console.log("BOOM!");
+                }, 500);
+
+            window.addEventListener("keydown", event => {
+                    if (event.key == "v") {
+                        document.body.style.background = "violet";
+                    }
+                });
+            window.addEventListener("keyup", event => {
+                if (event.key == "v") {
+                    document.body.style.background = "";
+                }
+            });
+
+            confirm('Hey, user, is this ok?'); // returns true or false
+
+            prompt('Enter a string'); // returns string that was entered
+
+        </script>
     </body>
 </html>
