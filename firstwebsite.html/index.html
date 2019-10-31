@@ -20,7 +20,7 @@
             <section class="popular-icecream">
                 <article>
                     <hgroup>
-                        <p>This page turns purple when you hold the P key.</p>
+                        <p>This page turns purple when you hold the "p" key.</p>
                         <h2>Best Ice cream In Town</h2>
                         <h3>Come and enjoy the most delightful flavors</h3>
                         <h3>We offer a big variety of Vegan and Non-Vegan Icecream</h3>
@@ -57,21 +57,21 @@
                 </footer>
         </div><!-- .wrapper -->
         <script>
-            function sayHello() {
-                    alert("Hello World")
-                }
+            window.addEventListener("sayHello", event => {
+                alert("Hello World!")
+            });
 
-            let bombTimer = setTimeout(() => {
-                    console.log("BOOM!");
-                }, 500);
+            window.addEventListener("bombTimer", setTimeout(() => {
+                console.log("BOOM!")
+            }, 500));
 
             window.addEventListener("keydown", event => {
-                    if (event.key == "v") {
+                    if (event.key == "p") {
                         document.body.style.background = "violet";
                     }
                 });
             window.addEventListener("keyup", event => {
-                if (event.key == "v") {
+                if (event.key == "p") {
                     document.body.style.background = "";
                 }
             });
