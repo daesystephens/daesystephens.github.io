@@ -99,6 +99,6 @@ sayHello();
 ```
 ### Declaring functions that need information:
 
-![parts of a function2](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj-6qzwncblAhXtGDQIHZqCCwcQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.frontamentals.com%2Ffunctions%2F&psig=AOvVaw04ecKMtSoDHnU3gKtIau6t&ust=1572602202834369 "parts of func 2")
+![parts of a function2](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj-6qzwncblAhXtGDQIHZqCCwcQjRx6BAgBEAQurl=https%3A%2F%2Fwww.frontamentals.com%2Ffunctions%2Fpsig=AOvVaw04ecKMtSoDHnU3gKtIau6t&ust=1572602202834369 "parts of func 2")
 
 [Back to Main Page](https://daesystephens.github.io/learning-journal)
