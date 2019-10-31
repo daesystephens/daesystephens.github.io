@@ -45,12 +45,14 @@ The smaller the circuit is, the less distance the electrical signal has to go. W
 - plugs
 - stuff
 
-**Software:** is the part that you don't see. Software is all the computer programs or code running on this machine.
+**Software:** is the part that you don't see. Software is all the computer programs or code running on a machine.
 
-**How Hardware and Software interact with one another?**
+**How Hardware and Software interact with one another?**<br />
 The software tells the CPU what to do and the CPU receives the commands that tell it which circuit to use to do a specific job.
 The CPU has circuits to do simple math and logic. It also has other circuits to send and recieve information to and from different parts of the computer.
 
+# Operating System
 
+An operating system, or "OS," is software that communicates with the hardware and allows other programs to run. It is comprised of system software, or the fundamental files your computer needs to boot up and function. Every desktop computer, tablet, and smartphone includes an operating system that provides basic functionality for the device.
 
 [Back to Main Page](https://daesystephens.github.io/learning-journal)
