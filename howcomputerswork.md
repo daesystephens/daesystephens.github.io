@@ -6,17 +6,17 @@ All computers follow 4 main tasks:
 3. Processing information
 4. Output results
 
-**Computers started out as basic calculators only manipulating numbers. Modern computers can do more, but they still follow the main 4 tasks.**
+**Computers started as basic calculators only manipulating numbers. Modern computers can do more, but they still follow the main 4 tasks.**
 
 ![common task](http://jappeclass.weebly.com/uploads/1/1/0/4/110409111/copy-of-computerdiagram-white_1_orig.png "common task")
 
 **Input:** what you type on a keyboard, a touchscreen sensing a finger. All the inputs give the computer information which is then stored in **Memory (storage)**.
 
-**Processor:** takes information from memory and manipulates it or changes it using algorithm. Then it sends it back to be stored in memory again. This continous until the processed information is ready to be output.
+**Processor:** takes information from memory and manipulates it or changes it using algorithm. Then it sends it back to be stored in memory again. This continuous until the processed information is ready to be output.
 
 **Output** computer's output information depends on what the computer is designated to do. A computer can display text, photos, videos or games.
 
-*When computers connect to eache other over the internet the output of one computer becomes the input to another one and viceversa*
+*When computers connect to each other over the internet the output of one computer becomes the input to another one and vice-versa*
 
 # Binary Data
 
@@ -26,14 +26,30 @@ A single wire is called a **BIT**. The more **bits** the more complex informatio
 
 ![circuit and wires](https://images.unsplash.com/photo-1549983650-e625b9735678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80 "circuit and wires")
 
-Each individual operation done by a computer is so simple it could be done b a human but the circuits inside computer are way faster
+Each operation done by a computer is so simple it could be done by a human, but the circuits inside a computer are way faster
 
-**Why smaller computers also faster?**
-The smaller the circuit is, the less distance the electrical signal has to go.
+**Why smaller computers also faster?**<br />
+The smaller the circuit is, the less distance the electrical signal has to go. Which means the processing is faster and given us an immediate output.
 
 ![small circuit](https://images.unsplash.com/photo-1553406830-4fd6df625354?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60 "small circuit")
 
-**Everything we can do with technology requires lots of information to be processed extremely quickly. Underneath all this complexity is just lots of tiny little circuits that turn binary signlas into websites, videos, music and games**
+**Everything we can do with technology requires lots of information to be processed extremely quickly. Underneath all this complexity is just lots of tiny little circuits that turn binary signals into websites, videos, music, games, etc.**
+
+# Hardware and Software
+
+**Hardware:** is what is inside a computer.
+- circuit
+- chips
+- wires
+- speaker
+- plugs
+- stuff
+
+**Software:** is the part that you don't see. Software is all the computer programs or code running on this machine.
+
+**How Hardware and Software interact with one another?**
+The software tells the CPU what to do and the CPU receives the commands that tell it which circuit to use to do a specific job.
+The CPU has circuits to do simple math and logic. It also has other circuits to send and recieve information to and from different parts of the computer.
 
 
 
