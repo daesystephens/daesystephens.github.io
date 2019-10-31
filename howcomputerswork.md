@@ -37,7 +37,7 @@ The smaller the circuit is, the less distance the electrical signal has to go. W
 
 # Hardware and Software
 
-**Hardware:** is what is inside a computer.
+**Hardware:** is what its inside a computer.
 - circuit
 - chips
 - wires
