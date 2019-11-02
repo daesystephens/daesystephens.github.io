@@ -29,32 +29,27 @@ var area = 3 * 2;
 Expressions rely on things called **operators**; they allow programmers to
 create a single value from one or more values.
 
-**ASSIGNMENT OPERATORS**<br />
-Assign a value to a variable
+**ASSIGNMENT OPERATORS:** assign a value to a variable
 ```javascript
 color = 'beige';
 ```
 
-**ARITHMETIC OPERATORS**<br />
-Perform basic math
+**ARITHMETIC OPERATORS:** perform basic math
 ```javascript
 area = 3 * 2;
 ```
 
-**STRING OPERATORS**<br />
-Combine two strings
+**STRING OPERATORS:** combine two strings
 ```javascript
 greeting = 'Hi' + 'Molly';
 ```
 
-**COMPARISON OPERATORS**<br />
-Compare two values and return true or fa 1 se
+**COMPARISON OPERATORS:** compare two values and return true or false
 ```javascript
 buy = 3 > 5;
 ```
 
-**LOGICAL OPERATORS**<br />
-Combine expressions and return true or fa 1 se
+**LOGICAL OPERATORS:** combine expressions and return true or false
 ```javascript
 buy = (5 > 3) && (2 < 4);
 ```
