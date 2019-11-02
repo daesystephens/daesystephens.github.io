@@ -16,7 +16,7 @@ window.addEventListener("keyup", event => {
 var userAnswer = confirm('Hey, user, do you want to continue?'); // returns true or false
 
 if (userAnswer == true) {
-    alert("Yeahhh...")
+    alert("Yeahhh...⭐")
 }
 else {
     alert("Bummer... 🍔")
