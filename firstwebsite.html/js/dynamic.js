@@ -63,7 +63,8 @@ function listOfFlavors() {
     // If x is Not a Number or less than one or greater than 10
     if (isNaN(x) || x < 1 || x > 10) {
         text = "Input not valid";
-    } else {
+    }
+    else {
         for (var k = 0; k < num; k++) {
             text += flavors[k] + ' ice cream flavor, ';
         }
