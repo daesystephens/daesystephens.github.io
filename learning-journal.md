@@ -40,3 +40,4 @@ So, Try to recognize that avoidance, take a step back, and think about the growt
 6. [6a) Dynamic Web Pages with JavaScript](https://daesystephens.github.io/dynamicpagesjavascript)
 7. [6b) How Computers Work](https://daesystephens.github.io/howcomputerswork)
 8. [Programming with JavaScript](https://daesystephens.github.io/programmingwithjs)
+9. [Operators and Loops](https://daesystephens.github.io/operatorsandloops)

@@ -10,3 +10,5 @@
 |```javascript <```  |LESS THAN                 |
 |```javascript >=``` |GREATHER THAN OR EQUAL TO |
 |```javascript <=``` |LESS THAN OR EQUAL TO     |
+
+[Back to Main Page](https://daesystephens.github.io/learning-journal)
