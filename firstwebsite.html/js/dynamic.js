@@ -30,15 +30,15 @@ var answr = 'You will get :';
 
 if (numIcecream != null){
     for (var i = 1; i < 11; i++) {
-        if (num !== i) {
-            numIcecream = prompt("Opps, Please try again another number from 1 to 10");
-        }
-        else {
+        // if (num !== i) {
+        //     numIcecream = prompt("Opps, Please try again another number from 1 to 10");
+        // }
+        // else {
             for (var k = 0; k < num - 1; k++){
                     answr += flavors[k] + ' ice cream flavor ,';
         }
             alert(answr);
-        }
+        // }
     }
 }
 // Adding for loop after getting answer of prompt
