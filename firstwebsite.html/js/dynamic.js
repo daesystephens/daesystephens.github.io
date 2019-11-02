@@ -50,7 +50,7 @@ prompt('Enter a string'); // returns string that was entered
 // }
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 
-var answr = 'You will get : ';
+var preText = 'You will get : ';
 
 function listOfFlavors() {
     var x, text;
