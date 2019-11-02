@@ -13,6 +13,15 @@ window.addEventListener("keyup", event => {
     }
 });
 
-confirm('Hey, user, do you want to continue?'); // returns true or false
+var userAnswer = confirm('Hey, user, do you want to continue?'); // returns true or false
+
+if (userAnswer == true) {
+    answr = "Yeahhh..."
+}
+else {
+    answer = "Bummer... 🍔"
+}
+
+
 
 prompt('Enter a string'); // returns string that was entered
