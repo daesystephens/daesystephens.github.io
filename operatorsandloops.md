@@ -8,13 +8,13 @@
 |``` !==```|STRICT NOT EQUAL TO       |
 |``` >```  |GREATER THAN              |
 |``` <```  |LESS THAN                 |
-|``` >=``` |GREATHER THAN OR EQUAL TO |
+|``` >=``` |GREATER THAN OR EQUAL TO |
 |``` <=``` |LESS THAN OR EQUAL TO     |
 
 # Logical Operators
 
 **&&** logical **AND** True if both conditions are true<br />
-**||** locigal **OR** True if any of the conditions are true<br />
+**||** logical **OR** True if any of the conditions are true<br />
 **!** logical **NOT** will return True if the condition is false and vice versa<br />
 
 # FOR LOOP
