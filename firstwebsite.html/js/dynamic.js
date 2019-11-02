@@ -41,5 +41,3 @@ for (var i = 1; i < 11; i++) {
         document.getElementById('output').innerHTML = answr;
     }
 }
-
-document.write(answr);
