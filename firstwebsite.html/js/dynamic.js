@@ -28,20 +28,19 @@ num = parseInt(numIcecream);
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 var answr = 'You will get :';
 
-for (var i = 1; i < 11; i++) {
-    if (num !== i) {
-        numIcecream = prompt("Opps, Please try again any a number from 1 to 10");
-    }
-    else {
-        for (var k = 1; k < num + 1; k++){
-            for ( var j = 0; j < flavors.length; j++) {
-                answr += flavors[j] + ' ice cream flavor ,';
-            }
+if (num != null){
+    for (var i = 1; i < 11; i++) {
+        if (num !== i) {
+            numIcecream = prompt("Opps, Please try again another number from 1 to 10");
         }
-        alert(answr);
+        else {
+            for (var k = 0; k < num - 1; k++){
+                    answr += flavors[k] + ' ice cream flavor ,';
+        }
+            alert(answr);
+        }
     }
 }
-
 // Adding for loop after getting answer of prompt
 // prompt('Enter a string'); // returns string that was entered
 
