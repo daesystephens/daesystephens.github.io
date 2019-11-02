@@ -2,9 +2,10 @@ window.addEventListener("keydown", event => {
     if (event.key == "p") {
         document.body.style.background = "purple";
     }
-    else if (event.key !== "p") {
-        alert('Hey, that is not letter "p"!!!')
-    }
+    // Comment this command for now to be able to use func from assigment Read08
+    // else if (event.key !== "p") {
+    //     alert('Hey, that is not letter "p"!!!')
+    // }
 });
 
 window.addEventListener("keyup", event => {
