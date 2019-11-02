@@ -26,7 +26,7 @@ else {
 var numIcecream = prompt("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
 num = Number(numIcecream);
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
-var answr = 'You will get :';
+var answr = 'You will get : ';
 
 if (numIcecream != null){
     // for (var i = 1; i < 11; i++) {
@@ -34,7 +34,7 @@ if (numIcecream != null){
         //     numIcecream = prompt("Opps, Please try again another number from 1 to 10");
         // }
         // else {
-            for (var k = 0; k < num - 1; k++){
+            for (var k = 0; k < num; k++){
                     answr += flavors[k] + ' ice cream flavor ,';
         }
             alert(answr);
