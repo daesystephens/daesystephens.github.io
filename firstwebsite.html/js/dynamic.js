@@ -16,12 +16,10 @@ window.addEventListener("keyup", event => {
 var userAnswer = confirm('Hey, user, do you want to continue?'); // returns true or false
 
 if (userAnswer == true) {
-    answr = "Yeahhh..."
+    alert("Yeahhh...")
 }
 else {
-    answer = "Bummer... 🍔"
+    alert("Bummer... 🍔")
 }
-
-
 
 prompt('Enter a string'); // returns string that was entered
