@@ -24,7 +24,7 @@ else {
 
 
 var numIcecream = prompt("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
-num = parseInt(numIcecream);
+num = Number(numIcecream);
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 var answr = 'You will get :';
 
