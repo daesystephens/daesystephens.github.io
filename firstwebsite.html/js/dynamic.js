@@ -48,6 +48,9 @@ prompt('Enter a string'); // returns string that was entered
 //         // }
 //     // }
 // }
+var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
+
+var answr = 'You will get : ';
 
 function listOfFlavors() {
     var x, text;
@@ -59,9 +62,11 @@ function listOfFlavors() {
     if (isNaN(x) || x < 1 || x > 10) {
         text = "Input not valid";
     } else {
-        text = "Input OK";
+        for (var k = 0; k < num; k++) {
+            text += flavors[k] + ' ice cream flavor, ';
+        }
     }
-    document.getElementById("demo").innerHTML = text;
+    document.getElementById("answr").innerHTML = text;
 }
 
 
