@@ -22,8 +22,6 @@ else {
     alert("Bummer... 🍔")
 }
 
-// Adding for loop after getting answer of prompt
-// prompt('Enter a string'); // returns string that was entered
 
 var numIcecream = prompt("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
 numIcecream = parseInt(numIcecream);
@@ -41,7 +39,8 @@ for (var i = 1; i < 11; i++) {
         alert(answr);
     }
 }
-function newFunction() {
-    return <br />;
-}
+
+// Adding for loop after getting answer of prompt
+// prompt('Enter a string'); // returns string that was entered
+
 
