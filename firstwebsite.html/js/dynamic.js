@@ -35,7 +35,7 @@ if (numIcecream != null){
         // }
         // else {
             for (var k = 0; k < num; k++){
-                    answr += flavors[k] + ' ice cream flavor ,';
+                    answr += flavors[k] + ' ice cream flavor, ';
         }
             alert(answr);
         // }
