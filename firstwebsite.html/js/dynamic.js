@@ -25,7 +25,7 @@ window.addEventListener("keyup", event => {
 // Adding for loop after getting answer of prompt
 // prompt('Enter a string'); // returns string that was entered
 
-var numIcecream = prompt("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
+var numIcecream = confirm("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
 numIcecream = parseInt(numIcecream);
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 var answr = '';
