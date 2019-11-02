@@ -13,10 +13,36 @@
 
 # Logical Operators
 
-**&&** logical **AND** True if both conditions are true
-**||** locigal **OR** True if any of the conditions are true
-**!** logical **NOT** will return True if the condition is false and vice versa
+**&&** logical **AND** True if both conditions are true<br />
+**||** locigal **OR** True if any of the conditions are true<br />
+**!** logical **NOT** will return True if the condition is false and vice versa<br />
 
+# FOR LOOP
+If you need to run code a specific number of times, use a **for** loop.
+```javascript
+for (var i = 0; i < 10; i++) {
+    document.write(i);
+}
+```
+**Result**
+```0123456789```
+
+
+# WHILE LOOP
+If you do not know how many times the code shoul run, you can use a **while** loop.
+```javascript
+var answr = "";
+var i = 0;
+while (i < 5) {
+  answr += "<br>The number is " + i;
+  i++;
+```
+**Result**
+```the number is 0```<br />
+```the number is 1```<br />
+```the number is 2```<br />
+```the number is 3```<br />
+```the number is 4```<br />
 
 
 [Back to Main Page](https://daesystephens.github.io/learning-journal)
