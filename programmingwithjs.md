@@ -12,7 +12,7 @@
 
 There are two types of expressions.
 
-1. Expressions that just assign a value to a variable (the assignment operator isthe equals sign)
+1. Expressions that just assign a value to a variable (the assignment operator is the equal sign)
 
 ```javascript
 var color = 'beige';
