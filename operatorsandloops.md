@@ -13,35 +13,10 @@
 
 # Logical Operators
 
-**&&**
-| __logic__|
-|```javascript
-true && true returs true
-```|
-|```javascript
-true && false returns false
-```|
-|```javascript
-false && true returns false
-```|
-|```javascript
-false & false returns false
-```|
+**&&** logical **AND** True if both conditions are true
+**||** locigal **OR** True if any of the conditions are true
+**!** logical **NOT** will return True if the condition is false and vice versa
 
-
-**||**
-|```javascript
-true && true returs true
-```|
-|```javascript
-true && false returns true
-```|
-|```javascript
-false && true returns true
-```|
-|```javascript
-false & false returns false
-```|
 
 
 [Back to Main Page](https://daesystephens.github.io/learning-journal)
