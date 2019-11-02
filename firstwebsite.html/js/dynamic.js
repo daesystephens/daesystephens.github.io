@@ -49,11 +49,14 @@ prompt('Enter a string'); // returns string that was entered
 //         // }
 //     // }
 // }
-var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
+// var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 
-var preText = 'You will get : ';
+// var preText = 'You will get : ';
 
 function listOfFlavors() {
+    var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
+
+    var preText = 'You will get : ';
     var x;
     var text = '';
 
@@ -66,7 +69,7 @@ function listOfFlavors() {
     }
     else {
         for (var k = 0; k < num; k++) {
-            text += flavors[k] + ' ice cream flavor, ';
+        text += flavors[k] + ' ice cream flavor, ';
         }
     }
     document.getElementById("answr").innerHTML = text;
