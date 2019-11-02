@@ -29,7 +29,7 @@ var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'water
 var answr = 'You will get :';
 
 if (numIcecream != null){
-    for (var i = 1; i < 11; i++) {
+    // for (var i = 1; i < 11; i++) {
         // if (num !== i) {
         //     numIcecream = prompt("Opps, Please try again another number from 1 to 10");
         // }
@@ -39,7 +39,7 @@ if (numIcecream != null){
         }
             alert(answr);
         // }
-    }
+    // }
 }
 // Adding for loop after getting answer of prompt
 // prompt('Enter a string'); // returns string that was entered
