@@ -54,7 +54,8 @@ var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'water
 var preText = 'You will get : ';
 
 function listOfFlavors() {
-    var x, text;
+    var x;
+    var text = '';
 
     // Get the value of the input field with id="numb"
     x = document.getElementById("num").value;
