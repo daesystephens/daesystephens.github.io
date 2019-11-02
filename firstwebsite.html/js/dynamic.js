@@ -28,7 +28,7 @@ num = Number(numIcecream);
 var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
 var answr = 'You will get :';
 
-if (num != null){
+if (numIcecream != null){
     for (var i = 1; i < 11; i++) {
         if (num !== i) {
             numIcecream = prompt("Opps, Please try again another number from 1 to 10");
