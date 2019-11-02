@@ -26,10 +26,11 @@ for (var i = 0; i < 10; i++) {
 ```
 
 **Result**<br />
-```0123456789```
+```0123456789```<br />
 
 # WHILE LOOP
 If you do not know how many times the code shoul run, you can use a **while** loop.
+
 ```javascript
 var answr = "";
 var i = 0;
