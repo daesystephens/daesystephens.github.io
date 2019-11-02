@@ -36,7 +36,7 @@ for (var i = 1; i < 11; i++) {
     }
     else {
         for ( var j = 0; j < flavors.length; j++) {
-            answr += flavors[j] + 'ice cream flavor';<br />
+            answr += flavors[j] + 'ice cream flavor'; const newLocal = <br />;
         }
         alert(answr);
     }
