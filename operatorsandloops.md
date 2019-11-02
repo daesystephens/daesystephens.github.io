@@ -24,9 +24,9 @@ for (var i = 0; i < 10; i++) {
     document.write(i);
 }
 ```
-**Result**
-```0123456789```
 
+**Result**<br />
+```0123456789```
 
 # WHILE LOOP
 If you do not know how many times the code shoul run, you can use a **while** loop.
@@ -37,7 +37,7 @@ while (i < 5) {
   answr += "<br>The number is " + i;
   i++;
 ```
-**Result**
+**Result**<br />
 ```the number is 0```<br />
 ```the number is 1```<br />
 ```the number is 2```<br />
