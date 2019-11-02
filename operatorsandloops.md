@@ -35,9 +35,12 @@ If you do not know how many times the code shoul run, you can use a **while** lo
 var answr = "";
 var i = 0;
 while (i < 5) {
-  answr += "<br>The number is " + i;
-  i++;
+    answr += "<br>The number is " + i;
+    i++;
+}
+document.write(answr);
 ```
+
 **Result**<br />
 ```the number is 0```<br />
 ```the number is 1```<br />
