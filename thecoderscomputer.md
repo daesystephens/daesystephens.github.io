@@ -83,13 +83,10 @@ From the command line, you can navigate through files and folders on your comput
 |cd ../../	              |Move 2 levels up                                            |
 |cat	                    |Concatenate to screen                                       |
 |rm [file]	              |Remove a file, e.g. rm data.tmp                             |
-|rm [file]	              |Remove a file, e.g. rm data.tmp                             |
-|rm [file]	              |Remove a file, e.g. rm data.tmp                             |
 |rm -i [file]	            |Remove with confirmation                                    |
 |rm -r [dir]	            |Remove a directory and contents                             |
 |rm -f [file]	            |Force removal without confirmation                          |
 |cp [file] [newfile]      |Copy file to file                                           |
-|cp [file] [newfile]	    |Copy file to file                                           |
 |cp [file] [dir]	        |Copy file to directory                                      |
 |mv [file] [new filename] |Move/Rename, e.g. mv file1.ad /tmp                          |
 |pbcopy < [file]	        |Copies file contents to clipboard                           |
