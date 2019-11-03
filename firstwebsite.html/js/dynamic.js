@@ -31,6 +31,28 @@ prompt('Enter a string'); // returns string that was entered
 // 4[x]Use a loop in your JavaScript to add items to the page that many times.
 // 5[x]Can functions make your code more readable ?
 
+// var numIcecream = prompt("Choose a number from 1 to 10 to tell me how many icecreams  you want. And I will tell you wich flavors you will get:");
+// num = Number(numIcecream);
+// var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
+// var answr = 'You will get : ';
+
+// if (numIcecream != null){
+//     // for (var i = 1; i < 11; i++) {
+//         // if (num !== i) {
+//         //     numIcecream = prompt("Opps, Please try again another number from 1 to 10");
+//         // }
+//         // else {
+//             for (var k = 0; k < num; k++){
+//                     answr += flavors[k] + ' ice cream flavor, ';
+//         }
+//             alert(answr);
+//         // }
+//     // }
+// }
+// var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
+
+// var preText = 'You will get : ';
+
 function listOfFlavors() {
     var flavors = ['vanilla', 'chocolate', 'strawberry', 'mango', 'pinapple', 'watermelon', 'cherry', 'bubblegum', 'chocolate mint', 'cookie dough'];
     var x;
@@ -50,3 +72,7 @@ function listOfFlavors() {
     }
     document.getElementById("answr").innerHTML = text;
 }
+
+
+
+
