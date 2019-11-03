@@ -13,9 +13,9 @@
 
 # Logical Operators
 
-[ ] **&&** logical **AND** True if both conditions are true.<br />
-[ ] **||** logical **OR** True if any of the conditions are true.<br />
-[ ] **!** logical **NOT** will return True if the condition is false and vice versa.<br />
+- [ ] **&&** logical **AND** True if both conditions are true.<br />
+- [ ] **||** logical **OR** True if any of the conditions are true.<br />
+- [ ] **!** logical **NOT** will return True if the condition is false and vice versa.<br />
 
 # FOR LOOP
 If you need to run code a specific number of times, use a **for** loop.
