@@ -13,9 +13,9 @@
 
 # Logical Operators
 
-**&&** logical **AND** True if both conditions are true<br />
-**||** logical **OR** True if any of the conditions are true<br />
-**!** logical **NOT** will return True if the condition is false and vice versa<br />
+[ ] **&&** logical **AND** True if both conditions are true.<br />
+[ ] **||** logical **OR** True if any of the conditions are true.<br />
+[ ] **!** logical **NOT** will return True if the condition is false and vice versa.<br />
 
 # FOR LOOP
 If you need to run code a specific number of times, use a **for** loop.
@@ -29,7 +29,7 @@ for (var i = 0; i < 10; i++) {
 ```0123456789```<br />
 
 # WHILE LOOP
-If you do not know how many times the code shoul run, you can use a **while** loop.
+If you do not know how many times the code should run, you can use a **while** loop.
 
 ```javascript
 var answr = "";
