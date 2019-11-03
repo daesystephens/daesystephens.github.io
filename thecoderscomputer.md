@@ -55,7 +55,6 @@ From the command line, you can navigate through files and folders on your comput
 | __Key/Command__ |                     __Description__                                       |
 |---------------------------------------------------------------------------------------------|
 |cd [folder]	    | Change directory e.g. cd Documents                                        |
-|cd	              | Home directory                                                            |
 |cd ~	            | Home directory                                                            |
 |cd /   	        | Root of drive                                                             |
 |cd -	            | Previous directory                                                        |
