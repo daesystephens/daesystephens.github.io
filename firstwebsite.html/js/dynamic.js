@@ -68,8 +68,8 @@ function listOfFlavors() {
         text = "Input not valid";
     }
     else {
-        for (var k = 0; k < num; k++) {
-        text += flavors[k] + ' ice cream flavor, ';
+        for (var i = 0; i < x; i++) {
+        text += flavors[i] + ' ice cream flavor, ';
         }
     }
     document.getElementById("answr").innerHTML = text;
