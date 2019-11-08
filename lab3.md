@@ -59,4 +59,4 @@ It sits outside the edge of the border
 ### Padding
 Is the space between the border of a box any content contained within it.
 
-![padding](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage-proxy-cdn.teamtreehouse.com%2Fe4314d5c336cc352a806606bac61d4cffd46ae69%2F687474703a2f2f692e737461636b2e696d6775722e636f6d2f6e4e4b48682e676966&imgrefurl=https%3A%2F%2Fteamtreehouse.com%2Fcommunity%2Fwhat-exactly-does-margin-and-padding-do-its-hard-to-tell-since-everything-is-just-white-space&docid=SROQSRIFtyd9eM&tbnid=fCQcGBm8Wj0ivM%3A&vet=10ahUKEwj81LHA-9nlAhWiJzQIHdMoAGwQMwhxKBowGg..i&w=556&h=328&safe=active&bih=821&biw=1440&q=border%20margin%20and%20padding%20in%20css&ved=0ahUKEwj81LHA-9nlAhWiJzQIHdMoAGwQMwhxKBowGg&iact=mrc&uact=8 "padding")
+![padding](https://image-proxy-cdn.teamtreehouse.com/e4314d5c336cc352a806606bac61d4cffd46ae69/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6e4e4b48682e676966 "padding")
