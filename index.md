@@ -1,39 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/daesystephens/daesystephens.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center" >
+  <img src="https://avatars3.githubusercontent.com/u/19614897?s=460&v=4" alt="Daesy's profile image" style="width:200px;height:200px;" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Hi, my name is Daesy Stephens and I really enjoy coding and mathematics. You can visit my [GitHub account](https://github.com/daesy13) and see all the amazing projects that I worked on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daesystephens/daesystephens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[Back to Main Page](https://daesystephens.github.io/learning-journal)
+## Table of Contents
+1. [Learning Markdown](https://daesystephens.github.io/LearningMarkdown)
+2. [The Coder's Computer](https://daesystephens.github.io/thecoderscomputer)
+3. [Revision and the Cloud](https://daesystephens.github.io/revisionsandthecloud)
+4. [Structure Web Pages with HTML](https://daesystephens.github.io/structurewebpageswithHTML)
+5. [Design Web Pages with CSS](https://daesystephens.github.io/designwithCSS)
+6. [6a) Dynamic Web Pages with JavaScript](https://daesystephens.github.io/dynamicpagesjavascript)
+7. [6b) How Computers Work](https://daesystephens.github.io/howcomputerswork)
+8. [Programming with JavaScript](https://daesystephens.github.io/programmingwithjs)
+9. [Operators and Loops](https://daesystephens.github.io/operatorsandloops)
+10. [Dynamic WebSite Project](https://daesystephens.github.io/firstwebsite.html/)
