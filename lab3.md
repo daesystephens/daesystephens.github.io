@@ -2,7 +2,7 @@
 
 ## Cheat Sheet
 
-Ordered List
+### Ordered List
 
 ```html
 <ol>
@@ -10,14 +10,14 @@ Ordered List
     <li>step two</li>
 </ol>
 ```
-
+Result:
 <ol>
     <li>step one</li>
     <li>step two</li>
 </ol>
 
 
-Unordered List
+### Unordered List
 
 ```html
 <ul>
@@ -26,12 +26,13 @@ Unordered List
 </ul>
 ```
 
+Result:
 <ul>
     <li>item one</li>
     <li>item two</li>
 </ul>
 
-Definition List
+### Definition List
 
 ```html
 <dl>
@@ -40,6 +41,7 @@ Definition List
 </dl>
 ```
 
+Result:
 <dl>
     <dt>run</dt>
     <dd>move at a speed faster than a walk, never having both or all the feet on the ground at the same time.</dd>
