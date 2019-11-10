@@ -28,7 +28,7 @@
 CSS has the following position schemes that allows you to control the layout of your page.
 
 - **Normal Flow**
-    Since this is the default way you don't need to add into CSS
+    <br />Since this is the default way you don't need to add into CSS
 - **Relative Position**
     ```css
     position: relative;
@@ -45,3 +45,29 @@ CSS has the following position schemes that allows you to control the layout of 
     ```css
     float: right;
     ```
+# Page Layout & Grids
+
+960 Pixels Page Layout <br />
+12 Column Grid
+
+[Layout](https://miro.medium.com/max/1838/1*9AkgzPa2CKBG8MtNExMUyg.jpeg 'Layout')
+
+[Grid](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/05/960-12-col-grid.jpg 'Grid')
+
+# Function
+
+Functions are values that can be called or declared, is used to avoid repetition
+
+### Parts of a Function
+
+1. starts with the **keyboard** "function".
+2. a **name** is optional or it can be anonymous.
+3. a set of **parameters** (it can have 1 or more, sometimes none).
+4. a **body** is the statement that is enclosed in braces
+
+### Parameter and Argument
+
+**Parameter:** is a place holder, only used when we define a function.<br />
+
+**Argument:** is use to invoke the function.
+
