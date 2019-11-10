@@ -69,5 +69,15 @@ Functions are values that can be called or declared, is used to avoid repetition
 
 **Parameter:** is a place holder, only used when we define a function.<br />
 
+```javascript
+    function myFunction (parameter) {
+        // here goes your statement
+    }
+```
+
 **Argument:** is use to invoke the function.
 
+```javascript
+    // here I call my function
+    myFunction(argument);
+```
