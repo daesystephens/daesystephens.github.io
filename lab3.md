@@ -45,7 +45,7 @@ Result:
 <dl>
     <dt>run</dt>
     <dd>move at a speed faster than a walk, never having both or all the feet on the ground at the same time.</dd>
-</dl>
+</dl><br />
 
 
 ## Border, Margin and Padding
