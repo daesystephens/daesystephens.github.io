@@ -28,8 +28,6 @@ Whenever a picture has an area filled with the same color use GIF. Example logos
 </figure>
 ```
 
-<figure>
-<img src='https://media1.tenor.com/images/a787d287373558a6a5d785f3b5a59422/tenor.gif?itemid=14440463' alt='Photo of cats' />
+![Photo of cats](https://media1.tenor.com/images/a787d287373558a6a5d785f3b5a59422/tenor.gif?itemid=14440463)
 <br />
-<figcaption>Two little cats more content goes here</figcaption>
-</figure>
+Two little cats more content goes here
