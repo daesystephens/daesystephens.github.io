@@ -28,7 +28,7 @@ Whenever a picture has an area filled with the same color use GIF. Example logos
 </figure>
 ```
 
-![Photo of cats](https://media1.tenor.com/images/a787d287373558a6a5d785f3b5a59422/tenor.gif?itemid=14440463)
+![Photo of cats](http://studiogrfx.com/wp-content/uploads/st/thumb-stock-illustration-two-kittens-cats-snow-vector-winter-image.jpg)
 <br />
 Two little cats more content goes here
 
