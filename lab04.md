@@ -50,9 +50,9 @@ CSS has the following position schemes that allows you to control the layout of 
 960 Pixels Page Layout <br />
 12 Column Grid
 
-[Layout](https://miro.medium.com/max/1838/1*9AkgzPa2CKBG8MtNExMUyg.jpeg 'Layout')
+![Layout](https://miro.medium.com/max/1838/1*9AkgzPa2CKBG8MtNExMUyg.jpeg 'Layout')
 
-[Grid](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/05/960-12-col-grid.jpg 'Grid')
+![Grid](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2013/05/960-12-col-grid.jpg 'Grid')
 
 # Function
 
