@@ -63,7 +63,7 @@ Functions are values that can be called or declared, is used to avoid repetition
 1. starts with the **keyboard** "function".
 2. a **name** is optional or it can be anonymous.
 3. a set of **parameters** (it can have 1 or more, sometimes none).
-4. a **body** is the statement that is enclosed in braces
+4. a **body** is a statement that is enclosed in braces
 
 ### Parameter and Argument
 
@@ -75,7 +75,7 @@ Functions are values that can be called or declared, is used to avoid repetition
     }
 ```
 
-**Argument:** is use to invoke the function.
+**Argument:** is used to invoke the function.
 
 ```javascript
     // here I call my function
