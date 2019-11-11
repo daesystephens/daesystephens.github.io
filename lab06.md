@@ -1,6 +1,5 @@
 # Objects
-Object is like a blueprint of set of data form of **key** and **value** pairs. These keys can be variables or functions and are called **properties** and **methods**, respectively, in the context of an object.
-
+Object is like a blueprint of a set of data forms of **key** and **value** pairs. These keys can be variables or functions and are called **properties** and **methods**, respectively, in the context of an object.
 ### Creating an Object Literal Notation
 
 ```javascript
@@ -72,7 +71,7 @@ hotel.name = '';
 ***Document Object Model***<br />
 It is a data structure that you can read or modify. It acts as a live data structure: when it’s modified, the page on the screen is updated to reflect the changes.<br />
 
-The DOM is orginized like a tree. The Objects have properties such as parentNode and childNodes which it can be use to navigate to the tree.
+The DOM is organized like a tree. The Objects have properties such as parentNode and childNodes which it can be use to navigate to the tree.
 
 ### Catching DOM Queries
 
