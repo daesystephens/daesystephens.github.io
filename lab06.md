@@ -69,7 +69,7 @@ hotel.name = '';
 ```
 
 # DOM
-***Document Object Model***
+***Document Object Model***<br />
 It is a data structure that you can read or modify. It acts as a live data structure: when it’s modified, the page on the screen is updated to reflect the changes.<br />
 
 The DOM is orginized like a tree. The Objects have properties such as parentNode and childNodes which it can be use to navigate to the tree.
