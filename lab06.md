@@ -15,7 +15,7 @@ Object is like a blueprint of a set of data forms of **key** and **value** pa
     }
 ```
 
-### Accesing an Object and Dot Notation
+### Accessing an Object and Dot Notation
 
 ```javascript
 var hotelName = hotel.name;
@@ -71,7 +71,7 @@ hotel.name = '';
 ***Document Object Model***<br />
 It is a data structure that you can read or modify. It acts as a live data structure: when it’s modified, the page on the screen is updated to reflect the changes.<br />
 
-The DOM is organized like a tree. The Objects have properties such as parentNode and childNodes which it can be use to navigate to the tree.
+The DOM is organized like a tree. The Objects have properties such as parentNode and childNodes which can be used to navigate to the tree.
 
 ### Catching DOM Queries
 
