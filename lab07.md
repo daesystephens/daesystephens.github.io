@@ -3,7 +3,7 @@
 1. It creates individual objects from a common object
 2. It works with Inheritance
 
-For me is like creating a blueprint of a house. Where an architect is planning to use the same model for track homes in a neighborhood. And because each house is painted different colors, type of roof, stucco, and decorative rock wall. The architect will reuse the same blueprint for all the houses just changing the attributes.
+For me is like creating a blueprint of a house. Where an architect is planning to use the same model for track homes for a new neighborhood. And because each house is going to be painted a different color, different color of the roof, stucco, and decorative rock wall. The architect will have to reuse the same blueprint for all the houses and only changing the attributes.
 
 **Here an example of how OOP is created to be able to use 'n' amount of times for different humans.
 
