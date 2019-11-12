@@ -3,9 +3,9 @@
 1. It creates individual objects from a common object
 2. It works with Inheritance
 
-For me is like creating a blueprint of a house. Where an architect is planning to use the same model for track homes for a new neighborhood. And because each house is going to be painted a different color, different color of the roof, stucco, and decorative rock wall. The architect will have to reuse the same blueprint for all the houses and only changing the attributes.
+For me is like creating a blueprint of a house. Where an architect is planning to use the same blueprint to build track homes for a new neighborhood. And because each house is going to be painted a different color, different colors of shingles, stucco, and decorative rock wall. The architect will have to reuse the same blueprint for all the houses and only changing the attributes.
 
-**Here an example of how OOP is created to be able to use 'n' amount of times for different humans.
+**Here an example of how OOP is created to be able to use 'n' amount of times for different humans.**
 
 ```javascript
 function Human (firstName, lastName, age) {
@@ -24,4 +24,10 @@ function Human (firstName, lastName, age) {
 // Creating a new person with the `new` keyword
 const zell = new Human('Zell', 'Liew', 29)
 ```
+
+# Table
+
+I represent information in a grid format:
+example financial reports, scores, schedules, invoices.
+<br />The ```<table>``` element is used to add tables to a web page.
 
