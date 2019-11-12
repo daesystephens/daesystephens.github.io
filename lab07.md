@@ -27,7 +27,7 @@ const zell = new Human('Zell', 'Liew', 29)
 
 # Table
 
-I represent information in a grid format:
+It represents information in a grid format:
 example financial reports, scores, schedules, invoices.
 <br />The ```<table>``` element is used to add tables to a web page.
 
